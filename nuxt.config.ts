@@ -17,6 +17,7 @@ export default defineNuxtConfig({
           content: "28th International Conference on Information Fusion.",
         },
       ],
+      link: [{ rel: 'icon', type: 'image/png', href: '/web/favicon.ico' }],
       title: "FUSION 2025",
       viewport: "width=device-width, initial-scale=1",
     },
