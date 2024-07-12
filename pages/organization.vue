@@ -1,5 +1,5 @@
 <template>
-  <v-container fluid>
+  <v-container>
     <v-row justify="center">
       <v-col cols="auto">
         <h1 class="page-title">Organization</h1>
@@ -24,7 +24,7 @@
             <v-col cols="12" class="text-center">
               <img
                 class="rounded"
-                :src="`/img/organization/${chair.picture}`"
+                :src="`${baseURL}/img/organization/${chair.picture}`"
               />
             </v-col>
           </v-row>
@@ -124,6 +124,8 @@
 </template>
 
 <script setup>
+const baseURL = useNuxtApp().$config.app.baseURL;
+
 const generalChairs = [
   {
     name: "Claudio Miceli de Farias",
