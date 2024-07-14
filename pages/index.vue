@@ -5,9 +5,8 @@
         <h1 class="page-title">Home</h1>
       </v-col>
     </v-row>
-    <!-- TODO: Change order of images on mobile -->
     <v-row justify="center">
-      <v-col cols="12" md="4">
+      <v-col cols="12" md="6" xl="4" order="1" order-md="0">
         <v-row justify="center">
           <v-col class="text-center">
             <img draggable="false" src="/img/rio-1.png" alt="Image from Rio" />
@@ -19,7 +18,7 @@
           </v-col>
         </v-row>
       </v-col>
-      <v-col cols="12" md="4">
+      <v-col cols="12" md="6" xl="4" order="0" order-md="1">
         <p class="page-content">
           Rio de Janeiro, Brazil, will host the 28th ISIF Fusion Conference from
           July 7-10, 2025, the first ever in South America. Rio de Janeiro never
