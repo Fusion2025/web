@@ -10,20 +10,12 @@
       <v-col cols="12" md="4">
         <v-row justify="center">
           <v-col class="text-center">
-            <img
-              draggable="false"
-              src="/img/placeholder-1.png"
-              alt="placeholder"
-            />
+            <img draggable="false" src="/img/rio-1.png" alt="Image from Rio" />
           </v-col>
         </v-row>
         <v-row>
           <v-col class="text-center">
-            <img
-              draggable="false"
-              src="/img/placeholder-2.jpg"
-              alt="placeholder"
-            />
+            <img draggable="false" src="/img/rio-2.jpg" alt="Image from Rio" />
           </v-col>
         </v-row>
       </v-col>
