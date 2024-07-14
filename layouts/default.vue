@@ -26,6 +26,10 @@
   line-height: 1.25em;
 }
 
+p.page-content {
+  text-align: justify;
+}
+
 .no-list {
   list-style: none;
 }
