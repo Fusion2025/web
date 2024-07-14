@@ -21,7 +21,7 @@
       <v-col cols="12" md="6" xl="4" order="0" order-md="1">
         <p class="page-content">
           Rio de Janeiro, Brazil, will host the 28th ISIF Fusion Conference from
-          July 7-10, 2025, the first ever in South America. Rio de Janeiro never
+          July 7-11, 2025, the first ever in South America. Rio de Janeiro never
           fails to impress with its modern outlook that reflects its progression
           through the times of yore. The historic sites, sparkling beaches,
           green belts and cheerful attitude of the locals attract tourists where
