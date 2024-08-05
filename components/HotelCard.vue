@@ -11,7 +11,7 @@
         class="palace h-100"
         draggable="false"
         :src="hotelInfo?.image"
-        alt="Othon palace"
+        :alt="hotelInfo?.name"
         cover
     /></v-col>
     <v-col
