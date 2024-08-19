@@ -55,6 +55,17 @@
         <img class="header-trace" src="/img/header/layer_traco.svg" alt="" />
       </template>
       <v-row v-if="$vuetify.display.lgAndUp" class="nav-btns" no-gutters>
+        <h1
+          style="
+            position: absolute;
+            bottom: 50px;
+            left: 15px;
+            z-index: 999;
+            color: white;
+          "
+        >
+          7th – 11th July
+        </h1>
         <v-btn
           class="nav-btn"
           stacked
@@ -131,6 +142,15 @@
           prepend-icon="$menu"
           @click="navDrawer = !navDrawer"
         />
+        <h1
+          style="
+            color: white;
+            font-weight: 900;
+            -webkit-text-stroke: 1px #005047;
+          "
+        >
+          7th – 11th July
+        </h1>
       </v-row>
     </v-app-bar>
   </v-row>
