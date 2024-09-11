@@ -242,7 +242,7 @@ export default {
             "Access to email address of conference attendees who opts-in to receive email from conference sponsors***",
             "Sponsor flier provided to all attendees",
             "Half page company advertisement in the conference program booklet",
-            "Exclusive opportunity (maximum 4 spots)",
+            "Exclusive opportunity (maximum 1 spot)",
           ],
         },
         {
@@ -259,7 +259,7 @@ export default {
             "Access to email address of conference attendees who opts-in to receive email from conference sponsors***",
             "Sponsor flier provided to all attendees",
             "1 page company advertisement in the conference program booklet",
-            "Exclusive opportunity (maximum 1)",
+            "Exclusive opportunity (maximum 4 spots)",
           ],
         },
       ],
