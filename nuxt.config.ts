@@ -22,13 +22,16 @@ export default defineNuxtConfig({
       viewport: "width=device-width, initial-scale=1",
     },
   },
+
   // @ts-expect-error - Property not found
   build: {
     transpile: ["vuetify"],
   },
+
   fonts: {
     priority: ["local", "google"],
   },
+
   modules: [
     // @ts-expect-error - No typing defined
     (_options, nuxt) => {
@@ -41,7 +44,9 @@ export default defineNuxtConfig({
     "@nuxt/fonts",
     "@nuxtjs/sitemap",
   ],
+
   ssr: false,
+
   vite: {
     vue: {
       template: {
@@ -49,4 +54,6 @@ export default defineNuxtConfig({
       },
     },
   },
+
+  compatibilityDate: "2024-10-07",
 });

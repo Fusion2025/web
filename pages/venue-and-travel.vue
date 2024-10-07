@@ -128,17 +128,22 @@
         <v-row class="py-10">
           <v-col cols="auto" class="pa-0">
             <h2 class="page-title px-2">Coming from Santos Dummont Airport</h2>
-            <v-row  class="px-10 ma-0">
-              <p class="page-content my-4">
-                Possible Route:
+            <v-row class="px-10 ma-0">
+              <v-col>
+                <p class="page-content my-4">Possible Route:</p>
                 <ol class="pl-4 pl-md-6">
-                  <li class="pt-2">Follow Av. Presidente Vargas towards Av. Atlântica.</li>
+                  <li class="pt-2">
+                    Follow Av. Presidente Vargas towards Av. Atlântica.
+                  </li>
                   <li class="pt-2">Turn right onto Av. Princesa Isabel.</li>
-                  <li class="pt-2">Continue onto Av. Princesa Isabel until you reach Av. Atlântica.</li>
+                  <li class="pt-2">
+                    Continue onto Av. Princesa Isabel until you reach Av.
+                    Atlântica.
+                  </li>
                   <li class="pt-2">Turn left onto Av. Atlântica.</li>
                   <li class="pt-2">The Hotel Othon will be on your right.</li>
                 </ol>
-              </p>
+              </v-col>
             </v-row>
           </v-col>
         </v-row>
@@ -146,12 +151,14 @@
           <v-col cols="auto" class="pa-0">
             <h2 class="page-title px-2">Coming from Galeão Airport</h2>
             <v-row class="px-10 ma-0">
-              <p class="page-content my-4">
-                Possible Route:
+              <v-col>
+                <p class="page-content my-4">Possible Route:</p>
                 <ol class="pl-4 pl-md-6">
-                  <li class="pt-2">Take the Via Expressa Pres. João Goulart/Linha Vermelha.</li>
+                  <li class="pt-2">
+                    Take the Via Expressa Pres. João Goulart/Linha Vermelha.
+                  </li>
                 </ol>
-              </p>
+              </v-col>
             </v-row>
           </v-col>
         </v-row>
