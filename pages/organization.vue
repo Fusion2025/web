@@ -24,7 +24,8 @@
             <v-col cols="12" class="text-center">
               <img
                 class="rounded"
-                :src="`${baseURL}/img/organization/${chair.picture}`"
+                :src="`/img/organization/${chair.picture}`"
+                :alt="`${chair.name}`"
               />
             </v-col>
           </v-row>
