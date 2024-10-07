@@ -24,8 +24,8 @@
         <h2 class="page-title">Proposals for competitions shall include the following information:</h2>
       </v-col>
     <v-col cols="12">
-        <p class="page-content">Each special session proposal should include an overview of the topic that identifies its relevance and introduces the papers to be presented. This description will be made available in the proceedings. Each proposal should also include a list of committed papers.</p>
-        <p>The following information must be included in a special session proposal:</p>
+        <p class="page-content">Each competition proposal should include an overview of the topic that identifies its relevance and introduces the papers to be presented. This description will be made available in the proceedings. Each proposal should also include a list of committed papers.</p>
+        <p>The following information must be included in a competition proposal:</p>
         <ul class="page-content pl-4 pl-md-6 pt-4">
             <li class="pt-2">Title of the competition</li>
             <li class="pt-2">Organizing team<br>Names, affiliations, short bio, previous experience in similar activities</li>
