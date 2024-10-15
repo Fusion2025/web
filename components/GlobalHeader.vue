@@ -109,6 +109,15 @@
             >
               {{ item.name }}
             </v-list-item>
+            <v-list-item
+              href="https://hlif-challenge.s3g-labs.fr"
+              target="_blank"
+              density="compact"
+              slim
+              exact
+            >
+              CALL FOR COMPETITIONS
+            </v-list-item>
           </v-list>
         </v-menu>
         <v-btn
@@ -180,7 +189,6 @@ const calls = [
   { name: "CALL FOR PAPERS", to: "/call-for-papers" },
   { name: "CALL FOR SPECIAL SESSIONS", to: "/call-for-special-sessions" },
   { name: "CALL FOR TUTORIALS", to: "/call-for-tutorials" },
-  { name: "CALL FOR COMPETITIONS", to: "https://hlif-challenge.s3g-labs.fr" },
 ];
 
 // Closes the navigation drawer in case of display size change
