@@ -67,9 +67,12 @@
       </v-col>
       <v-col cols="12">
         <h2 class="page-title">Important Dates</h2>
-      </v-col>
-      <v-col cols="12">
-        <p class="page-content">To be announced</p>
+        <ul class="page-content no-list pt-2 pl-md-6">
+          <li class="pt-2">– Full paper submission: February 1st, 2025</li>
+          <li class="pt-2">
+            – Notification of paper acceptance: February 10th, 2025
+          </li>
+        </ul>
       </v-col>
     </v-row>
   </v-container>
