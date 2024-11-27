@@ -477,7 +477,7 @@
 
     <v-row>
       <v-col>
-        <h1 class="page-title">International Chairs</h1>
+        <h1 class="page-title">International Chair</h1>
       </v-col>
     </v-row>
     <v-row justify="space-evenly">
@@ -599,23 +599,17 @@ const programChairs = [
     country: "USA",
     picture: "placeholder.png",
   },
-  {
-    name: "Lance Kaplan",
-    affiliation: "ARL",
-    country: "USA",
-    picture: "placeholder.png",
-  },
 ];
 const plenaryChairs = [
   {
     name: "Roy Streit",
-    affiliation: "",
+    affiliation: "Metron",
     country: "USA",
     picture: "placeholder.png",
   },
   {
     name: "Chee-Yee Chong",
-    affiliation: "",
+    affiliation: "Independent Researcher",
     country: "USA",
     picture: "placeholder.png",
   },
