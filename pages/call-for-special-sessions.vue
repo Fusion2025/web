@@ -15,7 +15,10 @@
           address “breaking news” research or topics different from traditional
           fusion-related topics. Organizers of accepted special sessions will be
           asked to chair the session and will be consulted when finalizing the
-          list of papers in the session.
+          list of papers in the session. Send your special session proposal to
+          <NuxtLink to="mailto:fusion2025special@labnet.nce.ufrj.br"
+            >fusion2025special@labnet.nce.ufrj.br</NuxtLink
+          >.
         </p>
       </v-col>
       <v-col cols="12">

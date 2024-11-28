@@ -48,12 +48,12 @@
 
     <v-row>
       <v-col>
-        <h1 class="page-title">Technical Program</h1>
+        <h1 class="page-title">Technical Program Chairs</h1>
       </v-col>
     </v-row>
     <v-row justify="space-evenly">
       <v-col
-        v-for="chair in technicalProgram"
+        v-for="chair in technicalProgramChairs"
         :key="chair.name"
         cols="12"
         md="4"
@@ -572,7 +572,7 @@ const generalChairs = [
     picture: "paulo-costa.jpeg",
   },
 ];
-const technicalProgram = [
+const technicalProgramChairs = [
   {
     name: "Anne-Laure Jousselme",
     affiliation: "CS Group",
@@ -704,7 +704,7 @@ const industrialChairs = [
     picture: "placeholder.png",
   },
   {
-    name: "Paulo Braga",
+    name: "André Braga",
     affiliation: "Federal University of Ceará / EMBRAER",
     country: "Brazil",
     picture: "placeholder.png",

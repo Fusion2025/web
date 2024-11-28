@@ -45,11 +45,7 @@
           Proposals should be submitted as PDF files to
           <NuxtLink to="mailto:fusion2025@labnet.nce.ufrj.br"
             >fusion2025@labnet.nce.ufrj.br</NuxtLink
-          >
-          in a form that can be posted at
-          <!-- <NuxtLink to="/tutorials">https://fusion2025.org/tutorials</NuxtLink> -->
-          <NuxtLink to="/tutorials">Tutorials</NuxtLink>
-          after acceptance. A proposal needs to contain:
+          >. A proposal needs to contain:
         </p>
         <ul class="page-content pl-4 pl-md-6 pt-4">
           <li class="pt-2">The title of the proposed tutorial</li>
