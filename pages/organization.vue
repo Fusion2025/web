@@ -575,12 +575,12 @@ const generalChairs = [
 const technicalProgram = [
   {
     name: "Anne-Laure Jousselme",
-    affiliation: "NATO CMRE",
-    country: "Italy",
+    affiliation: "CS Group",
+    country: "France",
     picture: "placeholder.png",
   },
   {
-    name: "Blanko Ristic",
+    name: "Branco Ristic",
     affiliation: "RMIT University",
     country: "Australia",
     picture: "placeholder.png",
@@ -593,6 +593,12 @@ const technicalProgram = [
   },
 ];
 const programChairs = [
+  {
+    name: "Erik Blasch",
+    affiliation: "Air Force Office of Scientific Research",
+    country: "USA",
+    picture: "placeholder.png",
+  },
   {
     name: "Kathryn Laskey",
     affiliation: "George Mason University",
@@ -676,7 +682,7 @@ const localArrangements = [
     picture: "placeholder.png",
   },
   {
-    name: "Pablo Moraes",
+    name: "Pablo Rangel",
     affiliation: "Brazilian Navy",
     country: "Brazil",
     picture: "placeholder.png",
