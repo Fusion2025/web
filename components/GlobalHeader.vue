@@ -61,7 +61,7 @@
             bottom: 50px;
             left: 15px;
             z-index: 999;
-            color: white;
+            color: #f2c511;
           "
         >
           7th – 11th July
