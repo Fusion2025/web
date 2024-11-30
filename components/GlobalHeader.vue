@@ -153,7 +153,7 @@
         />
         <h1
           style="
-            color: white;
+            color: #f2c511;
             font-weight: 900;
             -webkit-text-stroke: 1px #005047;
           "
