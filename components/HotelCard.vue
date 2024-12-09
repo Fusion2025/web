@@ -20,7 +20,9 @@
       sm="9"
     >
       <h2 class="page-title title py-3">{{ hotelInfo?.name }}</h2>
-      <p class="page-content address py-2">{{ hotelInfo?.address }}</p>
+      <p class="page-content address py-2 text-center">
+        {{ hotelInfo?.address }}
+      </p>
       <GlobalButton :href="hotelInfo?.link">Hotel website</GlobalButton></v-col
     ></v-row
   >
