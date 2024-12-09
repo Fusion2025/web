@@ -194,7 +194,11 @@
         <h2 class="page-title">Submission of Final Manuscripts</h2>
       </v-col>
       <v-col cols="12">
-        <p class="page-content">To be announced</p>
+        <p class="page-content">
+          The submission system will be made available as soon as the list of
+          approved special sessions is finalized. We expect this to happen on or
+          before March 1st.
+        </p>
       </v-col>
       <v-col cols="12">
         <h2 class="page-title">Presentation Instructions</h2>
