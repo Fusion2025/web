@@ -128,13 +128,61 @@
         <v-row class="py-10">
           <v-col cols="auto" class="pa-0">
             <h2 class="page-title px-2">Coming from Santos Dummont Airport</h2>
+          </v-col>
+        </v-row>
+        <v-row justify="center" justify-md="start" class="px-0">
+          <v-col
+            class="pa-2"
+            cols="12"
+            md="4"
+            style="height: fit-content"
+            align-self="center"
+          >
+            <img
+              class="palace h-100 w-100"
+              draggable="false"
+              src="/img/airports/sd.jpg"
+              alt="Santos Dumont Airport"
+              cover
+            />
+          </v-col>
+          <v-col cols="12" md="8" class="pa-0">
             <v-row class="px-10 ma-0">
               <v-col>
-                <p class="page-content my-4">Possible Route:</p>
-                <ol class="pl-4 pl-md-6">
+                <p>
+                  The Santos Dumont Airport is a domestic airport surrounded by
+                  Guanabara Bay and Sugar Loaf, named after the famous Brazilian
+                  inventor and aviation pioneer Alberto Santos Dumont. Fusion
+                  attendees coming from other Brazilian cities might arrive
+                  there (e.g. connection flights from GRU São Paulo
+                  international). SDU is located near the city center and about
+                  11 km (~7 miles) from the conference venue. Driving time
+                  averages 20 minutes, but it can go up to 60 minutes if between
+                  4:30pm-6:30pm (rush hour for that direction).
+                </p>
+                <p class="pt-2">Recommended methods:</p>
+                <ul class="pl-4 pl-md-6">
+                  <li class="pt-2">Uber</li>
                   <li class="pt-2">
-                    Follow Av. Presidente Vargas towards Av. Atlântica.
+                    Registered Taxi (hire at a booth inside the Luggage Return
+                    area)
                   </li>
+                </ul>
+                <p class="pt-2">Avoid:</p>
+                <ul class="pl-4 pl-md-6">
+                  <li class="pt-2">
+                    Self-soliciting alternative transportations (unlicensed
+                    vans, cars, etc)
+                  </li>
+                  <li class="pt-2">
+                    Regular, yellow cabs (safe, but not English speaking)
+                  </li>
+                </ul>
+                <p class="page-content my-4">
+                  If renting a car, recommended route:
+                </p>
+                <ol class="pl-4 pl-md-6">
+                  <li>Follow Av. Presidente Vargas towards Av. Atlântica.</li>
                   <li class="pt-2">Turn right onto Av. Princesa Isabel.</li>
                   <li class="pt-2">
                     Continue onto Av. Princesa Isabel until you reach Av.
@@ -150,11 +198,73 @@
         <v-row class="pb-10">
           <v-col cols="auto" class="pa-0">
             <h2 class="page-title px-2">Coming from Galeão Airport</h2>
+          </v-col>
+        </v-row>
+        <v-row justify="center" justify-md="start" class="px-0">
+          <v-col
+            order="0"
+            order-md="1"
+            class="pa-2"
+            cols="12"
+            md="4"
+            style="height: fit-content"
+            align-self="center"
+          >
+            <img
+              class="palace h-100 w-100"
+              draggable="false"
+              src="/img/airports/galeao.png"
+              alt="Galeão Airport"
+              cover
+            />
+          </v-col>
+          <v-col cols="12" md="8" class="pa-0" order="1" order-md="0">
             <v-row class="px-10 ma-0">
               <v-col>
-                <p class="page-content my-4">Possible Route:</p>
-                <ol class="pl-4 pl-md-6">
+                <p>
+                  The Antonio Carlos Jobin International Airport, commonly known
+                  by its original name Galeão International Airport (hence the
+                  trigram GIG), is the main international airport serving Rio de
+                  Janeiro, Brazil. GIG is located about 22 km (~14 miles) from
+                  the conference venue. Driving time averages 40 minutes in
+                  regular hours, but it can go up to 2 hours if between
+                  7:30am-9:30am and 4:30pm-6:30pm (rush hour).
+                </p>
+                <p class="pt-2">Recommended methods:</p>
+                <ul class="pl-4 pl-md-6">
                   <li class="pt-2">
+                    Fusion 2025 chartered vans: We will provide free
+                    transportation with chartered vans/small busses at
+                    pre-defined times during the days preceding the conference,
+                    as well as on late Friday and Saturday after the conference.
+                    The schedule will be announced here closer to the event as
+                    we learn the arrival time from most of our attendees.
+                  </li>
+                  <li class="pt-2">Uber</li>
+                  <li class="pt-2">
+                    Registered Taxi (hire at a booth inside the Luggage Return
+                    area)
+                  </li>
+                </ul>
+                <p class="pt-2">Avoid:</p>
+                <ul class="pl-4 pl-md-6">
+                  <li class="pt-2">
+                    Self-soliciting alternative transportations (unlicensed
+                    vans, cars, etc)
+                  </li>
+                  <li class="pt-2">
+                    Regular, yellow cabs (safe, but not English speaking)
+                  </li>
+                  <li class="pt-2">
+                    Driving (long distance, prone to direction mistakes, traffic
+                    jams, etc.)
+                  </li>
+                </ul>
+                <p class="page-content my-4">
+                  If really, really wanting to drive, recommended route:
+                </p>
+                <ol class="pl-4 pl-md-6">
+                  <li>
                     Take the Via Expressa Pres. João Goulart/Linha Vermelha.
                   </li>
                 </ol>
