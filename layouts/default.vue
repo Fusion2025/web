@@ -20,6 +20,14 @@
   color: #005047;
 }
 
+.v-row:has(> .v-col > .page-title) {
+  justify-content: center;
+}
+
+.v-row > .v-col > .page-title {
+  text-align: center;
+}
+
 .page-content {
   color: #505050;
   font-weight: bold;
