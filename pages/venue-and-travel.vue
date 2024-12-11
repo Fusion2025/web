@@ -130,13 +130,11 @@
             <h2 class="page-title px-2">Coming from Santos Dummont Airport</h2>
           </v-col>
         </v-row>
-        <v-row justify="center" justify-md="start" class="px-0">
+        <v-row justify="center" class="px-0">
           <v-col
             class="pa-2"
             cols="12"
-            md="4"
-            style="height: fit-content"
-            align-self="center"
+            style="object-fit: contain; height: 80vh"
           >
             <img
               class="palace h-100 w-100"
@@ -146,7 +144,38 @@
               cover
             />
           </v-col>
-          <v-col cols="12" md="8" class="pa-0">
+        </v-row>
+        <v-row justify="center" class="px-0">
+          <v-col class="pa-2" cols="12" md="4">
+            <img
+              class="palace h-100 w-100"
+              draggable="false"
+              src="/img/airports/sd2.png"
+              alt="Santos Dumont Airport"
+              cover
+            />
+          </v-col>
+          <v-col class="pa-2" cols="12" md="4">
+            <img
+              class="palace h-100 w-100"
+              draggable="false"
+              src="/img/airports/sd3.jpg"
+              alt="Santos Dumont Airport"
+              cover
+            />
+          </v-col>
+          <v-col class="pa-2" cols="12" md="4">
+            <img
+              class="palace h-100 w-100"
+              draggable="false"
+              src="/img/airports/sd4.jpeg"
+              alt="Santos Dumont Airport"
+              cover
+            />
+          </v-col>
+        </v-row>
+        <v-row class="px-0">
+          <v-col cols="12" class="pa-0">
             <v-row class="px-10 ma-0">
               <v-col>
                 <p>
@@ -200,15 +229,12 @@
             <h2 class="page-title px-2">Coming from Galeão Airport</h2>
           </v-col>
         </v-row>
-        <v-row justify="center" justify-md="start" class="px-0">
+
+        <v-row justify="center" class="px-0">
           <v-col
-            order="0"
-            order-md="1"
             class="pa-2"
             cols="12"
-            md="4"
-            style="height: fit-content"
-            align-self="center"
+            style="object-fit: contain; height: 80vh"
           >
             <img
               class="palace h-100 w-100"
@@ -218,7 +244,38 @@
               cover
             />
           </v-col>
-          <v-col cols="12" md="8" class="pa-0" order="1" order-md="0">
+        </v-row>
+        <v-row justify="center" class="px-0">
+          <v-col class="pa-2" cols="12" md="4">
+            <img
+              class="palace h-100 w-100"
+              draggable="false"
+              src="/img/airports/galeao2.png"
+              alt="Galeão Airport"
+              cover
+            />
+          </v-col>
+          <v-col class="pa-2" cols="12" md="4">
+            <img
+              class="palace h-100 w-100"
+              draggable="false"
+              src="/img/airports/galeao3.jpg"
+              alt="Galeão Airport"
+              cover
+            />
+          </v-col>
+          <v-col class="pa-2" cols="12" md="4">
+            <img
+              class="palace h-100 w-100"
+              draggable="false"
+              src="/img/airports/galeao4.png"
+              alt="Galeão Airport"
+              cover
+            />
+          </v-col>
+        </v-row>
+        <v-row>
+          <v-col cols="12" class="pa-0" order="1" order-md="0">
             <v-row class="px-10 ma-0">
               <v-col>
                 <p>
