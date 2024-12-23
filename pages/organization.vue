@@ -580,7 +580,7 @@ const technicalProgramChairs = [
     picture: "placeholder.png",
   },
   {
-    name: "Branco Ristic",
+    name: "Branko Ristic",
     affiliation: "RMIT University",
     country: "Australia",
     picture: "placeholder.png",
@@ -747,8 +747,8 @@ const competitionsChairs = [
 const internationalChairs = [
   {
     name: "Alfonso Farina",
-    affiliation: "University College of London",
-    country: "UK",
+    affiliation: "Consultant, Leonardo SpA, Radar Division",
+    country: "Italy",
     picture: "placeholder.png",
   },
 ];
