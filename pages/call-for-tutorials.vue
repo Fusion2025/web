@@ -85,9 +85,11 @@
       <v-col cols="12">
         <h2 class="page-title">Important Dates</h2>
         <ul class="page-content no-list pt-2 pl-md-6">
-          <li class="pt-2">– Full paper submission: February 1st, 2025</li>
           <li class="pt-2">
-            – Notification of paper acceptance: February 10th, 2025
+            – Tutorial proposal submission: February 1st, 2025
+          </li>
+          <li class="pt-2">
+            – Notification of proposal acceptance: February 10th, 2025
           </li>
         </ul>
       </v-col>
