@@ -477,7 +477,7 @@
 
     <v-row>
       <v-col>
-        <h1 class="page-title">International Chair</h1>
+        <h1 class="page-title">International Chairs</h1>
       </v-col>
     </v-row>
     <v-row justify="space-evenly">
@@ -749,6 +749,12 @@ const internationalChairs = [
     name: "Alfonso Farina",
     affiliation: "Consultant, Leonardo SpA, Radar Division",
     country: "Italy",
+    picture: "placeholder.png",
+  },
+  {
+    name: "Ting Yuan",
+    affiliation: "SJTU",
+    country: "China",
     picture: "placeholder.png",
   },
 ];
