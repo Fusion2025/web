@@ -18,9 +18,6 @@
           as to currently active information fusion researchers who may be
           interested in widening their areas of research interest.
         </p>
-        <p class="page-content pt-4">
-          Download (in PDF format): To be announced
-        </p>
       </v-col>
       <v-col cols="12">
         <h2 class="page-title">Tutorial Proposal Requirements</h2>

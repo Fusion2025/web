@@ -54,6 +54,14 @@
           <li>Acceptance Notification: May 1, 2025</li>
           <li>Camera Ready due: June 1, 2025</li>
         </ul>
+        <p class="page-content pt-4">Contact</p>
+        <ul class="page-content pt-4 pl-6">
+          <li>
+            <NuxtLink to="mailto:fusion2025@labnet.nce.ufrj.br"
+              >fusion2025@labnet.nce.ufrj.br</NuxtLink
+            >
+          </li>
+        </ul>
       </v-col>
     </v-row>
   </v-container>
