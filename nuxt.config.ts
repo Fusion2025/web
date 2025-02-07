@@ -17,7 +17,7 @@ export default defineNuxtConfig({
           content: "28th International Conference on Information Fusion.",
         },
       ],
-      link: [{ rel: 'icon', type: 'image/png', href: '/favicon.ico' }],
+      link: [{ rel: "icon", type: "image/png", href: "/favicon.ico" }],
       title: "FUSION 2025",
       viewport: "width=device-width, initial-scale=1",
     },
@@ -47,6 +47,8 @@ export default defineNuxtConfig({
 
   ssr: false,
 
+  telemetry: { enabled: false },
+
   vite: {
     vue: {
       template: {
@@ -55,5 +57,5 @@ export default defineNuxtConfig({
     },
   },
 
-  compatibilityDate: "2024-10-07",
+  compatibilityDate: "2025-02-07",
 });
