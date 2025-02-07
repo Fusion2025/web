@@ -16,10 +16,10 @@
           <li>
             Theory and Representation:
             <p class="pt-1">
-              Probability theory, Bayesian inference, argumentation,
-              Dempster-Shafer theory, possibility and fuzzy set theory, rough
-              sets, logic fusion, preference aggregation, decision theory,
-              random sets, finite point processes and others.
+              Probability theory, Bayesian inference, argumentation, belief
+              functions, possibility and fuzzy set theory, rough sets, logic
+              fusion, preference aggregation, decision theory, random sets,
+              finite point processes and others.
             </p>
           </li>
           <li class="pt-4">
@@ -227,6 +227,7 @@
         <h2 class="page-title">Important Dates</h2>
         <ul class="page-content no-list pt-2 pl-md-6">
           <li class="pt-2">– Full paper submission: March 1st, 2025</li>
+          <li class="pt-2">– Paper registration: March 1st, 2025</li>
           <li class="pt-2">
             – Notification of paper acceptance: May 1st, 2025
           </li>

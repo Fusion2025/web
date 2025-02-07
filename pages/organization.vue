@@ -24,6 +24,8 @@
             <v-col cols="12" class="text-center">
               <img
                 class="rounded"
+                height="300px"
+                width="300px"
                 :src="`/img/organization/${chair.picture}`"
                 :alt="`${chair.name}`"
               />
@@ -61,12 +63,14 @@
       >
         <v-card class="py-4">
           <v-row justify="center">
-            <!-- <v-col cols="12" class="text-center">
+            <v-col cols="12" class="text-center">
               <img
                 class="rounded"
+                height="300px"
+                width="300px"
                 :src="`/img/organization/${chair.picture}`"
               />
-            </v-col> -->
+            </v-col>
           </v-row>
           <v-row>
             <v-col cols="12" class="text-center">
@@ -100,12 +104,14 @@
       >
         <v-card class="py-4">
           <v-row justify="center">
-            <!-- <v-col cols="12" class="text-center">
+            <v-col cols="12" class="text-center">
               <img
                 class="rounded"
+                height="300px"
+                width="300px"
                 :src="`/img/organization/${chair.picture}`"
               />
-            </v-col> -->
+            </v-col>
           </v-row>
           <v-row>
             <v-col cols="12" class="text-center">
@@ -139,12 +145,14 @@
       >
         <v-card class="py-4">
           <v-row justify="center">
-            <!-- <v-col cols="12" class="text-center">
+            <v-col cols="12" class="text-center">
               <img
                 class="rounded"
+                height="300px"
+                width="300px"
                 :src="`/img/organization/${chair.picture}`"
               />
-            </v-col> -->
+            </v-col>
           </v-row>
           <v-row>
             <v-col cols="12" class="text-center">
@@ -178,12 +186,14 @@
       >
         <v-card class="py-4">
           <v-row justify="center">
-            <!-- <v-col cols="12" class="text-center">
+            <v-col cols="12" class="text-center">
               <img
                 class="rounded"
+                height="300px"
+                width="300px"
                 :src="`/img/organization/${chair.picture}`"
               />
-            </v-col> -->
+            </v-col>
           </v-row>
           <v-row>
             <v-col cols="12" class="text-center">
@@ -217,12 +227,14 @@
       >
         <v-card class="py-4">
           <v-row justify="center">
-            <!-- <v-col cols="12" class="text-center">
+            <v-col cols="12" class="text-center">
               <img
                 class="rounded"
+                height="300px"
+                width="300px"
                 :src="`/img/organization/${chair.picture}`"
               />
-            </v-col> -->
+            </v-col>
           </v-row>
           <v-row>
             <v-col cols="12" class="text-center">
@@ -256,12 +268,14 @@
       >
         <v-card class="py-4">
           <v-row justify="center">
-            <!-- <v-col cols="12" class="text-center">
+            <v-col cols="12" class="text-center">
               <img
                 class="rounded"
+                height="300px"
+                width="300px"
                 :src="`/img/organization/${chair.picture}`"
               />
-            </v-col> -->
+            </v-col>
           </v-row>
           <v-row>
             <v-col cols="12" class="text-center">
@@ -295,12 +309,14 @@
       >
         <v-card class="py-4">
           <v-row justify="center">
-            <!-- <v-col cols="12" class="text-center">
+            <v-col cols="12" class="text-center">
               <img
                 class="rounded"
+                height="300px"
+                width="300px"
                 :src="`/img/organization/${chair.picture}`"
               />
-            </v-col> -->
+            </v-col>
           </v-row>
           <v-row>
             <v-col cols="12" class="text-center">
@@ -334,12 +350,14 @@
       >
         <v-card class="py-4">
           <v-row justify="center">
-            <!-- <v-col cols="12" class="text-center">
+            <v-col cols="12" class="text-center">
               <img
                 class="rounded"
+                height="300px"
+                width="300px"
                 :src="`/img/organization/${chair.picture}`"
               />
-            </v-col> -->
+            </v-col>
           </v-row>
           <v-row>
             <v-col cols="12" class="text-center">
@@ -373,12 +391,14 @@
       >
         <v-card class="py-4">
           <v-row justify="center">
-            <!-- <v-col cols="12" class="text-center">
+            <v-col cols="12" class="text-center">
               <img
                 class="rounded"
+                height="300px"
+                width="300px"
                 :src="`/img/organization/${chair.picture}`"
               />
-            </v-col> -->
+            </v-col>
           </v-row>
           <v-row>
             <v-col cols="12" class="text-center">
@@ -412,12 +432,14 @@
       >
         <v-card class="py-4">
           <v-row justify="center">
-            <!-- <v-col cols="12" class="text-center">
+            <v-col cols="12" class="text-center">
               <img
                 class="rounded"
+                height="300px"
+                width="300px"
                 :src="`/img/organization/${chair.picture}`"
               />
-            </v-col> -->
+            </v-col>
           </v-row>
           <v-row>
             <v-col cols="12" class="text-center">
@@ -451,12 +473,14 @@
       >
         <v-card class="py-4">
           <v-row justify="center">
-            <!-- <v-col cols="12" class="text-center">
+            <v-col cols="12" class="text-center">
               <img
                 class="rounded"
+                height="300px"
+                width="300px"
                 :src="`/img/organization/${chair.picture}`"
               />
-            </v-col> -->
+            </v-col>
           </v-row>
           <v-row>
             <v-col cols="12" class="text-center">
@@ -490,12 +514,14 @@
       >
         <v-card class="py-4">
           <v-row justify="center">
-            <!-- <v-col cols="12" class="text-center">
+            <v-col cols="12" class="text-center">
               <img
                 class="rounded"
+                height="300px"
+                width="300px"
                 :src="`/img/organization/${chair.picture}`"
               />
-            </v-col> -->
+            </v-col>
           </v-row>
           <v-row>
             <v-col cols="12" class="text-center">
@@ -529,12 +555,14 @@
       >
         <v-card class="py-4">
           <v-row justify="center">
-            <!-- <v-col cols="12" class="text-center">
+            <v-col cols="12" class="text-center">
               <img
                 class="rounded"
+                height="300px"
+                width="300px"
                 :src="`/img/organization/${chair.picture}`"
               />
-            </v-col> -->
+            </v-col>
           </v-row>
           <v-row>
             <v-col cols="12" class="text-center">
@@ -556,20 +584,18 @@
 </template>
 
 <script setup>
-const baseURL = useNuxtApp().$config.app.baseURL;
-
 const generalChairs = [
   {
     name: "Claudio Miceli de Farias",
     affiliation: "Federal University of Rio de Janeiro",
     country: "Brazil",
-    picture: "claudio-miceli.jpeg",
+    picture: "general/claudio-miceli.jpeg",
   },
   {
     name: "Paulo Costa",
     affiliation: "George Mason University",
     country: "USA",
-    picture: "paulo-costa.jpeg",
+    picture: "general/paulo-costa.jpeg",
   },
 ];
 const technicalProgramChairs = [
@@ -577,19 +603,19 @@ const technicalProgramChairs = [
     name: "Anne-Laure Jousselme",
     affiliation: "CS Group",
     country: "France",
-    picture: "placeholder.png",
+    picture: "technical/anne-laure-jousselme.jpg",
   },
   {
     name: "Branko Ristic",
     affiliation: "RMIT University",
     country: "Australia",
-    picture: "placeholder.png",
+    picture: "technical/branko-ristic.jpeg",
   },
   {
     name: "Gustaf Hendeby",
     affiliation: "LIU",
     country: "Sweden",
-    picture: "placeholder.png",
+    picture: "technical/gustaf-hendeby.jpg",
   },
 ];
 const programChairs = [

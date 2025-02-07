@@ -49,8 +49,9 @@
           in the world) and the beaches of Barra da Tijuca.
         </p>
         <p class="page-content pt-4">Important Dates</p>
-        <ul class="page-content pt-4 pl-6">
+        <ul class="page-content pt-4 pl-6 text-red">
           <li>Paper Submissions due: March 1, 2025</li>
+          <li>Paper Registration due: March 1, 2025</li>
           <li>Acceptance Notification: May 1, 2025</li>
           <li>Camera Ready due: June 1, 2025</li>
         </ul>
