@@ -623,13 +623,13 @@ const programChairs = [
     name: "Erik Blasch",
     affiliation: "Air Force Office of Scientific Research",
     country: "USA",
-    picture: "placeholder.png",
+    picture: "program/erik-blasch.jpg",
   },
   {
     name: "Kathryn Laskey",
     affiliation: "George Mason University",
     country: "USA",
-    picture: "placeholder.png",
+    picture: "program/kathryn-laskey.jpg",
   },
 ];
 const plenaryChairs = [
@@ -637,27 +637,27 @@ const plenaryChairs = [
     name: "Roy Streit",
     affiliation: "Metron",
     country: "USA",
-    picture: "placeholder.png",
+    picture: "plenary/roy-streit.jpg",
   },
   {
     name: "Chee-Yee Chong",
     affiliation: "Independent Researcher",
     country: "USA",
-    picture: "placeholder.png",
+    picture: "plenary/chee-yee-chong.jpg",
   },
 ];
 const awardsChairs = [
   {
-    name: "Audun Jösang",
+    name: "Audun Jøsang",
     affiliation: "University of Oslo",
     country: "Norway",
-    picture: "placeholder.png",
+    picture: "awards/audun-josang.jpg",
   },
   {
     name: "Lyudmila Mihaylova",
     affiliation: "University of Sheffield",
     country: "UK",
-    picture: "placeholder.png",
+    picture: "awards/lyudmila-mihaylova.png",
   },
 ];
 const tutorialChairs = [
@@ -665,13 +665,13 @@ const tutorialChairs = [
     name: "Jesus Garcia Herrero",
     affiliation: "Universidad Carlos III",
     country: "Spain",
-    picture: "placeholder.png",
+    picture: "tutorial/jesus-garcia-herrero.jpg",
   },
   {
     name: "Ali Raz",
     affiliation: "George Mason University",
     country: "USA",
-    picture: "placeholder.png",
+    picture: "tutorial/ali-raz.jpg",
   },
 ];
 const specialSessionChairs = [
@@ -679,13 +679,13 @@ const specialSessionChairs = [
     name: "Zhansheng Duan",
     affiliation: "Xi'an Jiaotong University",
     country: "China",
-    picture: "placeholder.png",
+    picture: "special-session/zhansheng-duan.jpg",
   },
   {
     name: "Lauro Snidaro",
     affiliation: "University of Udine",
     country: "Italy",
-    picture: "placeholder.png",
+    picture: "special-session/lauro-snidaro.png",
   },
 ];
 const localArrangements = [
@@ -693,25 +693,25 @@ const localArrangements = [
     name: "Flávia Delicato",
     affiliation: "Fluminense Federal University",
     country: "Brazil",
-    picture: "placeholder.png",
+    picture: "local/flavia-delicato.jpg",
   },
   {
     name: "Pedro Gonzalez",
     affiliation: "Federal University of Rio de Janeiro",
     country: "Brazil",
-    picture: "placeholder.png",
+    picture: "local/pedro-gonzalez.jpg",
   },
   {
     name: "Diego Dutra",
     affiliation: "Federal University of Rio de Janeiro",
     country: "Brazil",
-    picture: "placeholder.png",
+    picture: "local/diego-dutra.jpg",
   },
   {
     name: "Pablo Rangel",
     affiliation: "Brazilian Navy",
     country: "Brazil",
-    picture: "placeholder.png",
+    picture: "local/pablo-rangel.jpg",
   },
 ];
 const financialChairs = [
@@ -719,7 +719,7 @@ const financialChairs = [
     name: "Henrique Serdeira",
     affiliation: "Federal University of Rio de Janeiro",
     country: "Brazil",
-    picture: "placeholder.png",
+    picture: "financial/henrique-serdeira.jpeg",
   },
 ];
 const industrialChairs = [
@@ -727,19 +727,19 @@ const industrialChairs = [
     name: "José Brancalion",
     affiliation: "EMBRAER",
     country: "Brazil",
-    picture: "placeholder.png",
+    picture: "industrial/jose-brancalion.jpeg",
   },
   {
     name: "André Braga",
     affiliation: "Federal University of Ceará / EMBRAER",
     country: "Brazil",
-    picture: "placeholder.png",
+    picture: "industrial/andre-braga.png",
   },
   {
     name: "Leopoldo Lusquino",
     affiliation: "UNESP",
     country: "Brazil",
-    picture: "placeholder.png",
+    picture: "industrial/leopoldo-lusquino.jpeg",
   },
 ];
 const publicationChairs = [
@@ -747,13 +747,13 @@ const publicationChairs = [
     name: "Gregor Pavlin",
     affiliation: "Thales Research",
     country: "Netherlands",
-    picture: "placeholder.png",
+    picture: "publication/gregor-pavlin.jpg",
   },
   {
     name: "Pieter de Villiers",
     affiliation: "University of Pretoria",
     country: "SA",
-    picture: "placeholder.png",
+    picture: "publication/pieter-de-villiers.jpg",
   },
 ];
 const competitionsChairs = [
@@ -761,13 +761,13 @@ const competitionsChairs = [
     name: "Claire Laudy",
     affiliation: "Thales Research",
     country: "France",
-    picture: "placeholder.png",
+    picture: "competitions/claire-laudy.jpg",
   },
   {
     name: "Leandro Santiago",
     affiliation: "Universidade Federal Fluminense",
     country: "Brazil",
-    picture: "placeholder.png",
+    picture: "competitions/leandro-santiago.jpg",
   },
 ];
 const internationalChairs = [
@@ -775,13 +775,13 @@ const internationalChairs = [
     name: "Alfonso Farina",
     affiliation: "Consultant, Leonardo SpA, Radar Division",
     country: "Italy",
-    picture: "placeholder.png",
+    picture: "international/alfonso-farina.png",
   },
   {
     name: "Ting Yuan",
     affiliation: "SJTU",
     country: "China",
-    picture: "placeholder.png",
+    picture: "international/ting-yuan.jpg",
   },
 ];
 const welcomeChairs = [
@@ -789,13 +789,13 @@ const welcomeChairs = [
     name: "Zoran Sjanic",
     affiliation: "Linköping University",
     country: "Sweden",
-    picture: "placeholder.png",
+    picture: "welcome/zoran-sjanic.jpg",
   },
   {
     name: "Ryne Beeson",
     affiliation: "Princeton University",
     country: "USA",
-    picture: "placeholder.png",
+    picture: "welcome/ryne-beeson.jpeg",
   },
 ];
 </script>
