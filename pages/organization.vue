@@ -19,7 +19,7 @@
         md="4"
         lg="3"
       >
-        <v-card class="py-4" border="md" color="#f5fff8">
+        <v-card class="py-4 profile-card" border="md" color="#f5fff8">
           <v-row justify="center">
             <v-col cols="12" class="text-center">
               <img
