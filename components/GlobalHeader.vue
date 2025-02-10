@@ -38,7 +38,7 @@
       </v-list>
     </v-navigation-drawer>
 
-    <v-app-bar :elevation="0" height="550" absolute order="1">
+    <v-app-bar :elevation="0" height="565" absolute order="1">
       <template #image>
         <video
           :class="{
@@ -54,7 +54,12 @@
         <img class="header-logo" src="/img/header/logo.svg" alt="" />
         <img class="header-trace" src="/img/header/layer_traco.svg" alt="" />
       </template>
-      <v-row v-if="$vuetify.display.lgAndUp" class="nav-btns" no-gutters>
+      <v-row
+        v-if="$vuetify.display.lgAndUp"
+        class="nav-btns"
+        no-gutters
+        style="background-color: #005047 !important"
+      >
         <h1
           style="
             position: absolute;
@@ -169,6 +174,7 @@ const navDrawer = ref(false);
 const buttons = [
   { name: "SUBMIT", to: "/submit" },
   { name: "REGISTER", to: "/register" },
+  { name: "BOOT CAMP", to: "/bootcamp" },
   { name: "PROGRAM", to: "/program" },
   { name: "VENUE & TRAVEL", to: "/venue-and-travel" },
   { name: "ORGANIZATION", to: "/organization" },

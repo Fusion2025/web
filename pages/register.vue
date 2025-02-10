@@ -2,7 +2,7 @@
   <v-container fluid>
     <v-row justify="center">
       <v-col cols="auto">
-        <h1 class="page-title">Register</h1>
+        <h1 class="page-title">Registration</h1>
       </v-col>
     </v-row>
     <v-row justify="center">
