@@ -23,9 +23,7 @@
           <v-row justify="center">
             <v-col cols="12" class="text-center">
               <img
-                class="rounded"
-                height="300px"
-                width="300px"
+                class="rounded profile-picture"
                 :src="`/img/organization/${chair.picture}`"
                 :alt="`${chair.name}`"
               />
@@ -61,13 +59,11 @@
         md="4"
         lg="3"
       >
-        <v-card class="py-4">
+        <v-card class="py-4 profile-card">
           <v-row justify="center">
             <v-col cols="12" class="text-center">
               <img
-                class="rounded"
-                height="300px"
-                width="300px"
+                class="rounded profile-picture"
                 :src="`/img/organization/${chair.picture}`"
               />
             </v-col>
@@ -102,13 +98,11 @@
         md="4"
         lg="3"
       >
-        <v-card class="py-4">
+        <v-card class="py-4 profile-card">
           <v-row justify="center">
             <v-col cols="12" class="text-center">
               <img
-                class="rounded"
-                height="300px"
-                width="300px"
+                class="rounded profile-picture"
                 :src="`/img/organization/${chair.picture}`"
               />
             </v-col>
@@ -143,13 +137,11 @@
         md="4"
         lg="3"
       >
-        <v-card class="py-4">
+        <v-card class="py-4 profile-card">
           <v-row justify="center">
             <v-col cols="12" class="text-center">
               <img
-                class="rounded"
-                height="300px"
-                width="300px"
+                class="rounded profile-picture"
                 :src="`/img/organization/${chair.picture}`"
               />
             </v-col>
@@ -184,13 +176,11 @@
         md="4"
         lg="3"
       >
-        <v-card class="py-4">
+        <v-card class="py-4 profile-card">
           <v-row justify="center">
             <v-col cols="12" class="text-center">
               <img
-                class="rounded"
-                height="300px"
-                width="300px"
+                class="rounded profile-picture"
                 :src="`/img/organization/${chair.picture}`"
               />
             </v-col>
@@ -225,13 +215,11 @@
         md="4"
         lg="3"
       >
-        <v-card class="py-4">
+        <v-card class="py-4 profile-card">
           <v-row justify="center">
             <v-col cols="12" class="text-center">
               <img
-                class="rounded"
-                height="300px"
-                width="300px"
+                class="rounded profile-picture"
                 :src="`/img/organization/${chair.picture}`"
               />
             </v-col>
@@ -266,13 +254,11 @@
         md="4"
         lg="3"
       >
-        <v-card class="py-4">
+        <v-card class="py-4 profile-card">
           <v-row justify="center">
             <v-col cols="12" class="text-center">
               <img
-                class="rounded"
-                height="300px"
-                width="300px"
+                class="rounded profile-picture"
                 :src="`/img/organization/${chair.picture}`"
               />
             </v-col>
@@ -307,13 +293,11 @@
         md="4"
         lg="3"
       >
-        <v-card class="py-4">
+        <v-card class="py-4 profile-card">
           <v-row justify="center">
             <v-col cols="12" class="text-center">
               <img
-                class="rounded"
-                height="300px"
-                width="300px"
+                class="rounded profile-picture"
                 :src="`/img/organization/${chair.picture}`"
               />
             </v-col>
@@ -348,13 +332,11 @@
         md="4"
         lg="3"
       >
-        <v-card class="py-4">
+        <v-card class="py-4 profile-card">
           <v-row justify="center">
             <v-col cols="12" class="text-center">
               <img
-                class="rounded"
-                height="300px"
-                width="300px"
+                class="rounded profile-picture"
                 :src="`/img/organization/${chair.picture}`"
               />
             </v-col>
@@ -389,13 +371,11 @@
         md="4"
         lg="3"
       >
-        <v-card class="py-4">
+        <v-card class="py-4 profile-card">
           <v-row justify="center">
             <v-col cols="12" class="text-center">
               <img
-                class="rounded"
-                height="300px"
-                width="300px"
+                class="rounded profile-picture"
                 :src="`/img/organization/${chair.picture}`"
               />
             </v-col>
@@ -430,13 +410,11 @@
         md="4"
         lg="3"
       >
-        <v-card class="py-4">
+        <v-card class="py-4 profile-card">
           <v-row justify="center">
             <v-col cols="12" class="text-center">
               <img
-                class="rounded"
-                height="300px"
-                width="300px"
+                class="rounded profile-picture"
                 :src="`/img/organization/${chair.picture}`"
               />
             </v-col>
@@ -471,13 +449,11 @@
         md="4"
         lg="3"
       >
-        <v-card class="py-4">
+        <v-card class="py-4 profile-card">
           <v-row justify="center">
             <v-col cols="12" class="text-center">
               <img
-                class="rounded"
-                height="300px"
-                width="300px"
+                class="rounded profile-picture"
                 :src="`/img/organization/${chair.picture}`"
               />
             </v-col>
@@ -512,13 +488,11 @@
         md="4"
         lg="3"
       >
-        <v-card class="py-4">
+        <v-card class="py-4 profile-card">
           <v-row justify="center">
             <v-col cols="12" class="text-center">
               <img
-                class="rounded"
-                height="300px"
-                width="300px"
+                class="rounded profile-picture"
                 :src="`/img/organization/${chair.picture}`"
               />
             </v-col>
@@ -553,13 +527,11 @@
         md="4"
         lg="3"
       >
-        <v-card class="py-4">
+        <v-card class="py-4 profile-card">
           <v-row justify="center">
             <v-col cols="12" class="text-center">
               <img
-                class="rounded"
-                height="300px"
-                width="300px"
+                class="rounded profile-picture"
                 :src="`/img/organization/${chair.picture}`"
               />
             </v-col>
@@ -765,7 +737,7 @@ const competitionsChairs = [
   },
   {
     name: "Leandro Santiago",
-    affiliation: "Universidade Federal Fluminense",
+    affiliation: "Fluminense Federal University",
     country: "Brazil",
     picture: "competitions/leandro-santiago.jpg",
   },
@@ -799,3 +771,14 @@ const welcomeChairs = [
   },
 ];
 </script>
+
+<style>
+.profile-picture {
+  width: 300px !important;
+  aspect-ratio: 1;
+}
+
+.profile-card {
+  height: 500px;
+}
+</style>
