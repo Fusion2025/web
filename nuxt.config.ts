@@ -45,6 +45,13 @@ export default defineNuxtConfig({
     "@nuxtjs/sitemap",
   ],
 
+  routeRules: {
+    // @ts-expect-error - No typing defined
+    "/program": {
+      redirect: "/schedule",
+    },
+  },
+
   ssr: false,
 
   telemetry: { enabled: false },

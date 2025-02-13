@@ -14,7 +14,8 @@ defineProps({
   },
   exact: {
     type: Boolean,
-    required: true,
+    required: false,
+    default: false,
   },
 });
 </script>
