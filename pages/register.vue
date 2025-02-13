@@ -13,9 +13,10 @@
         <v-table class="text-center fee-table">
           <thead>
             <tr>
-              <th id="0" class="text-center"><b>Ticket type</b></th>
+              <th id="0" class="text-center"><b>Registration type</b></th>
               <th id="1" class="text-center"><b>Until May 15th</b></th>
               <th id="2" class="text-center"><b>After May 15th</b></th>
+              <th id="2" class="text-center"><b>Onsite</b></th>
             </tr>
           </thead>
           <tbody>
@@ -23,19 +24,23 @@
               <td>FULL</td>
               <td>USD 675.00</td>
               <td>USD 775.00</td>
+              <td>USD 875.00</td>
             </tr>
             <tr>
               <td>STUDENT</td>
               <td>USD 395.00</td>
               <td>USD 495.00</td>
+              <td>USD 595.00</td>
             </tr>
             <tr>
               <td>SINGLE TUTORIAL</td>
               <td>USD 300.00</td>
               <td>USD 300.00</td>
+              <td>USD 300.00</td>
             </tr>
             <tr>
               <td>BOOT CAMP</td>
+              <td>USD 100.00</td>
               <td>USD 100.00</td>
               <td>USD 100.00</td>
             </tr>
