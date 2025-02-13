@@ -184,8 +184,8 @@ const buttons = [
 // Navigation bar call buttons
 const calls = [
   { name: "CALL FOR PAPERS", to: "/call-for-papers" },
-  { name: "CALL FOR SPECIAL SESSIONS", to: "/call-for-special-sessions" },
-  { name: "CALL FOR TUTORIALS", to: "/call-for-tutorials" },
+  { name: "SPECIAL SESSIONS", to: "/special-sessions" },
+  { name: "TUTORIALS", to: "/tutorials" },
   { name: "CALL FOR COMPETITIONS", to: "/call-for-competitions" },
 ];
 
