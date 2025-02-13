@@ -7,7 +7,7 @@
     </v-row>
     <v-row justify="start">
       <v-col cols="auto">
-        <h2>Full Day Tutorials</h2>
+        <h2>Full Day Tutorials ({{ fullDayTutorials.length }} Total)</h2>
       </v-col>
     </v-row>
     <v-row
@@ -38,7 +38,7 @@
     </v-row>
     <v-row justify="start">
       <v-col cols="auto">
-        <h2>Half Day Tutorials</h2>
+        <h2>Half Day Tutorials ({{ halfDayTutorials.length }} Total)</h2>
       </v-col>
     </v-row>
     <v-row
@@ -99,6 +99,46 @@ const fullDayTutorials = [
 ];
 
 const halfDayTutorials = [
+  {
+    title:
+      "Advanced Techniques for Low-Level and Mid-Level Sensor Data Fusion in Automotive Applications",
+    lecturers: [
+      "Ahmed Tarad (Senior Software Engineer, Automated Driving, Mercedes-Benz AG)",
+    ],
+  },
+  {
+    title:
+      "Quantum Computing and Quantum Physics Inspired Algorithms: Introduction and Data Fusion Examples",
+    lecturers: ["Felix Govaers(Fraunhoffer)", "Wolfgang Koch (Fraunhoffer)"],
+  },
+  {
+    title: "How to Convey High-Level Comprehension in Technical Presentations",
+    lecturers: ["Daniel Frisch (Karlsruhe Institute of Technology )"],
+  },
+  {
+    title: "Estimation of Noise Parameters in State Space Models",
+    lecturers: [
+      "Ondrej Straka (University of West Bohemia in Pilsen)",
+      "Jindrich Dunik",
+    ],
+  },
+  {
+    title: "Poisson multi-Bernoulli mixtures for multiple target tracking",
+    lecturers: ["Yuxuan Xia (Shanghai Jiaotong University, Shanghai)", "Yu Ge"],
+  },
+  {
+    title: "Analytic Combinatorics for Multiple Object Tracking",
+    lecturers: [
+      "Roy L. Streit (Metron)",
+      "R. Blair Angle (Metron)",
+      "Murat Efe (Ankara university)",
+    ],
+  },
+  {
+    title:
+      "Introduction to Machine Learning Generalization Theory with Information Fusion Applications",
+    lecturers: ["Nageswara Rao (Oak Ridge National Laboratory)"],
+  },
   {
     title: "Deep Learning for Multimodal Data Fusion: Theory and Practice",
     lecturers: [
