@@ -19,7 +19,18 @@
         </v-row>
       </v-col>
       <v-col cols="12" md="6" xl="4" order="0" order-md="1">
-        <p class="page-content">
+        <h2 class="page-content text-center pb-8">Important Dates</h2>
+        <v-alert
+          class="text-center important-dates"
+          variant="tonal"
+          color="red"
+        >
+          <p>Paper Submissions due: March 1, 2025</p>
+          <p>Paper Registration due: March 1, 2025</p>
+          <p>Acceptance Notification: May 1, 2025</p>
+          <p>Camera Ready due: June 1, 2025</p>
+        </v-alert>
+        <p class="page-content pt-8">
           Rio de Janeiro, Brazil, will host the 28th ISIF Fusion Conference from
           July 7-11, 2025, the first ever in South America. Rio de Janeiro never
           fails to impress with its modern outlook that reflects its progression
@@ -48,13 +59,6 @@
           the Royal Gabinet of Literature (one of the most beautiful libraries
           in the world) and the beaches of Barra da Tijuca.
         </p>
-        <p class="page-content pt-4">Important Dates</p>
-        <ul class="page-content pt-4 pl-6 text-red">
-          <li>Paper Submissions due: March 1, 2025</li>
-          <li>Paper Registration due: March 1, 2025</li>
-          <li>Acceptance Notification: May 1, 2025</li>
-          <li>Camera Ready due: June 1, 2025</li>
-        </ul>
         <p class="page-content pt-4">Contact</p>
         <ul class="page-content pt-4 pl-6">
           <li>
@@ -67,3 +71,10 @@
     </v-row>
   </v-container>
 </template>
+
+<style>
+.important-dates p {
+  font-size: larger;
+  font-weight: bold;
+}
+</style>

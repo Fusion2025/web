@@ -7,7 +7,7 @@
       order="0"
     >
       <v-list id="nav-drawer" height="100%" nav>
-        <v-list-item to="/" title="HOME" border="md" />
+        <NavbarMobileButton to="/" name="HOME" />
         <v-list-group value="CALL FOR CONTRIBUTIONS">
           <template #activator="{ props }">
             <v-list-item
@@ -17,7 +17,6 @@
               exact
             />
           </template>
-
           <v-list-item
             v-for="call in calls"
             :key="call.to"
@@ -27,14 +26,29 @@
             exact
           />
         </v-list-group>
-        <v-list-item
-          v-for="btn of buttons"
-          :key="btn.to"
-          :to="btn.to"
-          :title="btn.name"
-          border="md"
+        <NavbarMobileButton to="/submit" name="SUBMIT" exact />
+        <NavbarMobileButton to="/register" name="REGISTER" exact />
+        <NavbarMobileButton to="/bootcamp" name="BOOT CAMP" exact />
+        <v-list-group value="PROGRAM">
+          <template #activator="{ props }">
+            <v-list-item v-bind="props" title="PROGRAM" border="md" exact />
+          </template>
+          <v-list-item
+            v-for="program in programs"
+            :key="program.to"
+            :to="program.to"
+            :title="program.name"
+            border="md"
+            exact
+          />
+        </v-list-group>
+        <NavbarMobileButton
+          to="/venue-and-travel"
+          name="VENUE & TRAVEL"
           exact
         />
+        <NavbarMobileButton to="/organization" name="ORGANIZATION" exact />
+        <NavbarMobileButton to="/sponsors" name="SPONSORS" exact />
       </v-list>
     </v-navigation-drawer>
 
@@ -69,22 +83,9 @@
             color: #f2c511;
           "
         >
-          7th – 11th July
+          7th – 11th July 2025, Rio de Janeiro, Brazil
         </h1>
-        <v-btn
-          class="nav-btn"
-          stacked
-          to="/"
-          :active="false"
-          rounded="0"
-          height="auto"
-          width="auto"
-          variant="text"
-          color="white"
-          :ripple="false"
-        >
-          Home
-        </v-btn>
+        <NavbarButton to="/" name="HOME" />
         <v-menu open-on-hover>
           <template #activator="{ props }">
             <v-btn
@@ -116,22 +117,43 @@
             </v-list-item>
           </v-list>
         </v-menu>
-        <v-btn
-          v-for="btn in buttons"
-          :key="btn.to"
-          class="nav-btn nav-btn-sep"
-          stacked
-          :to="btn.to"
-          :active="false"
-          rounded="0"
-          height="auto"
-          width="auto"
-          variant="text"
-          color="white"
-          :ripple="false"
-        >
-          {{ btn.name }}
-        </v-btn>
+        <NavbarButton to="/submit" name="SUBMIT" sep />
+        <NavbarButton to="/register" name="REGISTER" sep />
+        <NavbarButton to="/bootcamp" name="BOOT CAMP" sep />
+        <v-menu open-on-hover>
+          <template #activator="{ props }">
+            <v-btn
+              class="nav-btn nav-btn-sep"
+              stacked
+              :active="false"
+              rounded="0"
+              height="auto"
+              width="auto"
+              variant="text"
+              color="white"
+              :ripple="false"
+              v-bind="props"
+            >
+              PROGRAM
+            </v-btn>
+          </template>
+
+          <v-list>
+            <v-list-item
+              v-for="(item, index) in programs"
+              :key="index"
+              :to="item.to"
+              density="compact"
+              slim
+              exact
+            >
+              {{ item.name }}
+            </v-list-item>
+          </v-list>
+        </v-menu>
+        <NavbarButton to="/venue-and-travel" name="VENUE & TRAVEL" sep />
+        <NavbarButton to="/organization" name="ORGANIZATION" sep />
+        <NavbarButton to="/sponsors" name="SPONSORS" sep />
       </v-row>
       <v-row v-else class="nav-btns" no-gutters>
         <v-btn
@@ -154,7 +176,7 @@
             -webkit-text-stroke: 1px #005047;
           "
         >
-          7th – 11th July
+          7th – 11th July 2025
         </h1>
       </v-row>
     </v-app-bar>
@@ -170,23 +192,17 @@ const display = useDisplay();
 // Set wheter navigation drawer is open
 const navDrawer = ref(false);
 
-// Navigation bar buttons
-const buttons = [
-  { name: "SUBMIT", to: "/submit" },
-  { name: "REGISTER", to: "/register" },
-  { name: "BOOT CAMP", to: "/bootcamp" },
-  { name: "PROGRAM", to: "/program" },
-  { name: "VENUE & TRAVEL", to: "/venue-and-travel" },
-  { name: "ORGANIZATION", to: "/organization" },
-  { name: "SPONSORS", to: "/sponsors" },
-];
-
 // Navigation bar call buttons
 const calls = [
   { name: "CALL FOR PAPERS", to: "/call-for-papers" },
+  { name: "CALL FOR COMPETITIONS", to: "/call-for-competitions" },
+];
+
+// Navigation bar program buttons
+const programs = [
+  { name: "SCHEDULE", to: "/schedule" },
   { name: "SPECIAL SESSIONS", to: "/special-sessions" },
   { name: "TUTORIALS", to: "/tutorials" },
-  { name: "CALL FOR COMPETITIONS", to: "/call-for-competitions" },
 ];
 
 // Closes the navigation drawer in case of display size change

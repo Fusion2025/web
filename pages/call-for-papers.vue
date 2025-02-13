@@ -7,6 +7,29 @@
     </v-row>
     <v-row justify="center">
       <v-col cols="12">
+        <h2 class="page-title">Paper Submission</h2>
+      </v-col>
+      <v-col cols="12">
+        <v-alert
+          class="text-center submission-link"
+          variant="tonal"
+          color="red"
+        >
+          <p class="text-center pl-4">
+            Please submit your original paper for FUSION 2025 using this CMT
+            link:
+          </p>
+          <p>
+            <NuxtLink
+              to="https://cmt3.research.microsoft.com/FUSION2025/Submission/Index"
+              target="_blank"
+            >
+              https://cmt3.research.microsoft.com/FUSION2025/Submission/Index</NuxtLink
+            >
+          </p>
+        </v-alert>
+      </v-col>
+      <v-col cols="12">
         <h2 class="page-title">
           SPECIFIC TOPICS of interest include but are not limited to:
         </h2>
@@ -238,3 +261,10 @@
     /></v-row>
   </v-container>
 </template>
+
+<style>
+.submission-link p {
+  font-size: xx-large;
+  font-weight: bold;
+}
+</style>
