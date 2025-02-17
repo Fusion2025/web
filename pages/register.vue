@@ -1,8 +1,11 @@
 <template>
   <v-container fluid>
     <v-row justify="center">
-      <v-col cols="auto">
+      <v-col cols="12">
         <h1 class="page-title">Registration</h1>
+        <h3 class="page-content text-center pt-4">
+          The register system will open after the submission deadline.
+        </h3>
       </v-col>
     </v-row>
     <v-row justify="center">
