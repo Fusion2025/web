@@ -14,7 +14,7 @@
               <v-card-title class="px-0 card-title">
                 <h2>Monday, July 7th</h2>
               </v-card-title>
-              <v-table class="text-center schedule-table overflow-visible">
+              <v-table class="text-center schedule-table">
                 <colgroup>
                   <col span="1" class="schedule-col-1" />
                   <col span="1" class="schedule-col-2" />
@@ -238,5 +238,8 @@
   max-width: 150px;
   display: block;
   margin: 5px auto;
+}
+div.v-table__wrapper {
+  overflow: visible;
 }
 </style>
