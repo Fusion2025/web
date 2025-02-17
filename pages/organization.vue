@@ -772,7 +772,7 @@ const welcomeChairs = [
 ];
 </script>
 
-<style>
+<style scoped>
 .profile-picture {
   width: 300px !important;
   aspect-ratio: 1;
