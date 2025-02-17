@@ -137,8 +137,8 @@
                   For more details please contact us at
                   <a
                     class="text-decoration-none"
-                    href="mailto:fusion2025@labnet.nce.ufrj.br"
-                    >fusion2025@labnet.nce.ufrj.br</a
+                    href="mailto:contact@fusion2025.org"
+                    >contact@fusion2025.org</a
                   >.
                 </p>
               </v-col>

@@ -19,7 +19,6 @@
         <v-card class="pa-4" :title="tutorial.title">
           <v-row justify="start" class="pl-4">
             <v-col cols="12">
-              <p class="page-content" />
               <h4>Lecturers:</h4>
               <ul class="pl-4">
                 <li v-for="lecturer in tutorial.lecturers" :key="lecturer">
@@ -50,7 +49,6 @@
         <v-card class="pa-4" :title="tutorial.title">
           <v-row justify="start" class="pl-4">
             <v-col cols="12">
-              <p class="page-content" />
               <h4>Lecturers:</h4>
               <ul class="pl-4">
                 <li v-for="lecturer in tutorial.lecturers" :key="lecturer">
