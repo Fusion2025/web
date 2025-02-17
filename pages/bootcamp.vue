@@ -1,8 +1,18 @@
 <template>
   <v-container fluid>
     <v-row justify="center">
-      <v-col cols="auto">
+      <v-col cols="12">
         <h1 class="page-title">Boot Camp</h1>
+        <p class="page-content px-8">
+          Following the highly successful Fusion Boot Camps at FUSION 2023 and
+          2024, this year will again feature a day-long series of talks. These
+          presentations cover key aspects of both lower-level and higher-level
+          fusion and are taught by well-known researchers in our community. The
+          target audience is newcomers to our field, who will benefit from a
+          tutorial introduction before possibly attending more specialized
+          tutorials on Tuesday. More experienced participants are welcome to
+          attend as well.
+        </p>
       </v-col>
     </v-row>
     <v-row justify="center">
@@ -38,6 +48,7 @@
                         <v-col cols="12" md="6" lg="8">
                           <b>Introduction to Information Fusion</b>
                           <p>Erik Blasch</p>
+                          <p>Air Force Office of Scientific Research (USA)</p>
                         </v-col>
                       </v-row>
                     </td>
@@ -60,6 +71,7 @@
                         <v-col cols="12" md="6" lg="8">
                           <b>Estimation in Information Fusion</b>
                           <p>Dale Blair</p>
+                          <p>Georgia Institute of Technology (USA)</p>
                         </v-col>
                       </v-row>
                     </td>
@@ -82,6 +94,7 @@
                         <v-col cols="12" md="6" lg="8">
                           <b>Data Association</b>
                           <p>Yuxuan Xia</p>
+                          <p>Shanghai Jiao Tong University (China)</p>
                         </v-col>
                       </v-row>
                     </td>
@@ -120,6 +133,7 @@
                         <v-col cols="12" md="6" lg="8">
                           <b>Distributed Target Tracking</b>
                           <p>Felix Govaers</p>
+                          <p>Fraunhofer (Germany)</p>
                         </v-col>
                       </v-row>
                     </td>
@@ -142,9 +156,10 @@
                         <v-col cols="12" md="6" lg="8">
                           <b>
                             Fusion and Association with Attributes /
-                            Classification</b
-                          >
+                            Classification
+                          </b>
                           <p>Yaakov Bar-Shalom</p>
+                          <p>University of Connecticut (USA)</p>
                         </v-col>
                       </v-row>
                     </td>
@@ -165,8 +180,9 @@
                           />
                         </v-col>
                         <v-col cols="12" md="6" lg="8">
-                          <b> Distributed Inference and Information Fusion </b>
+                          <b>Distributed Inference and Information Fusion</b>
                           <p>Pramod Varshney</p>
+                          <p>Syracuse University (USA)</p>
                         </v-col>
                       </v-row>
                     </td>
@@ -189,6 +205,7 @@
                         <v-col cols="12" md="6" lg="8">
                           <b>High-Level Fusion</b>
                           <p>Erik Blasch</p>
+                          <p>Air Force Office of Scientific Research (USA)</p>
                         </v-col>
                       </v-row>
                     </td>

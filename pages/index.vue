@@ -62,9 +62,9 @@
         <p class="page-content pt-4">Contact</p>
         <ul class="page-content pt-4 pl-6">
           <li>
-            <NuxtLink to="mailto:contact@fusion2025.org"
-              >contact@fusion2025.org</NuxtLink
-            >
+            <NuxtLink to="mailto:contact@fusion2025.org">
+              contact@fusion2025.org
+            </NuxtLink>
           </li>
         </ul>
       </v-col>

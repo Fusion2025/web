@@ -107,7 +107,7 @@ const halfDayTutorials = [
   {
     title:
       "Quantum Computing and Quantum Physics Inspired Algorithms: Introduction and Data Fusion Examples",
-    lecturers: ["Felix Govaers(Fraunhoffer)", "Wolfgang Koch (Fraunhoffer)"],
+    lecturers: ["Felix Govaers (Fraunhoffer)", "Wolfgang Koch (Fraunhoffer)"],
   },
   {
     title: "How to Convey High-Level Comprehension in Technical Presentations",
