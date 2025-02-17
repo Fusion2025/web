@@ -29,7 +29,7 @@
                   <col span="1" class="schedule-col-1" />
                   <col span="1" class="schedule-col-2" />
                 </colgroup>
-                <tbody>
+                <tbody style="overflow-y: clip !important">
                   <tr>
                     <td class="td-1">10:00</td>
                     <td class="td-1">
@@ -220,7 +220,7 @@
   </v-container>
 </template>
 
-<style>
+<style scoped>
 .schedule-table td {
   font-size: x-large;
 }
@@ -255,8 +255,5 @@
   max-width: 150px;
   display: block;
   margin: 5px auto;
-}
-div.v-table__wrapper {
-  overflow: visible;
 }
 </style>
