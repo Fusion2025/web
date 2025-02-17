@@ -61,7 +61,7 @@
                   </tr>
                   <tr>
                     <td class="td-n">20:00</td>
-                    <td class="td-n">Welcoming event</td>
+                    <td class="td-n">Ice-breaker event</td>
                   </tr>
                 </tbody>
               </v-table>
