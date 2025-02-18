@@ -23,9 +23,13 @@
             <NuxtLink
               to="https://cmt3.research.microsoft.com/FUSION2025/Submission/Index"
               target="_blank"
+              class="calendar-link"
             >
-              https://cmt3.research.microsoft.com/FUSION2025/Submission/Index</NuxtLink
-            >
+              <v-icon icon="mdi-open-in-new" size="x-small" />
+              <span class="pl-1 text-decoration-underline"
+                >Submit your paper
+              </span>
+            </NuxtLink>
           </p>
         </v-alert>
       </v-col>
@@ -266,5 +270,10 @@
 .submission-link p {
   font-size: xx-large;
   font-weight: bold;
+}
+.calendar-link {
+  font-size: xx-large !important;
+  color: #005047;
+  text-decoration: none;
 }
 </style>
