@@ -10,7 +10,7 @@
         <p class="page-content">
           Evaluate your information fusion algorithms on a benchmark of Notices
           To Airmen (NOTAM). The aim is to extract & fuse information contained
-          in these notices, store it in an ontology and answer some pilots’
+          in these notices, store it in an ontology and answer some pilots'
           information requests.
         </p>
       </v-col>

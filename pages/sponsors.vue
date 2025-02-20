@@ -54,7 +54,7 @@
               <v-col cols="auto">
                 <ul class="page-content ma-4 ml-10">
                   <li>
-                    Acknowledgement of your organisation’s support leading up to
+                    Acknowledgement of your organisation's support leading up to
                     and during the conference
                   </li>
                   <li>
@@ -73,7 +73,7 @@
                   </li>
                   <li>
                     Access to conference delegates for recruiting and promoting
-                    mind share of your organisation’s brand
+                    mind share of your organisation's brand
                   </li>
                   <li>
                     A place and time for your researchers and management to
@@ -97,8 +97,8 @@
                   </li>
                   <li>
                     Recognition as a supporter (with your logo) on the
-                    supporters’ page of the official conference website,
-                    including a hyperlink to your organisation’s home page
+                    supporters' page of the official conference website,
+                    including a hyperlink to your organisation's home page
                   </li>
                   <li>
                     Acknowledgement as a supporter on the official audiovisual

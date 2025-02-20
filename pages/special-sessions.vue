@@ -54,7 +54,7 @@ const specialSessions = [
     ],
     abstract: [
       "The Stone Soup framework is a flexible, modular, open-source framework for developing and proving a wide variety of tracking and information-fusion-based solutions. Since its inception in 2017, it has aimed to provide an open, easy-to-deploy framework to develop and assess the performance of different types of trackers. Now, through repeated application in many use cases, implementation of a wide variety of algorithms, multiple releases, and contributions from the community, the framework has reached a mature point and is proving to be an essential tool in evaluation and characterisation of tracking and state estimation approaches.",
-      "This special session highlights recent research contributions within the Stone Soup framework and emphasises the evaluation and comparison capabilities.  Discussions in this session will typically draw upon Stone Soup’s evaluation features to include comprehensive evaluation of a proposed approach against a number of other approaches in a number of use cases.",
+      "This special session highlights recent research contributions within the Stone Soup framework and emphasises the evaluation and comparison capabilities.  Discussions in this session will typically draw upon Stone Soup's evaluation features to include comprehensive evaluation of a proposed approach against a number of other approaches in a number of use cases.",
     ],
   },
   {
