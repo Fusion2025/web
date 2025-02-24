@@ -51,6 +51,13 @@
         </v-table>
       </v-col>
     </v-row>
+    <v-row>
+      <v-col>
+        <p class="page-content text-center">
+          Favorable exchange rates make everything extremely affordable in Rio.
+        </p>
+      </v-col>
+    </v-row>
   </v-container>
 </template>
 

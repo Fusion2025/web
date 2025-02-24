@@ -8,6 +8,47 @@
             <h1 class="page-title">Venue & Travel</h1>
           </v-col>
         </v-row>
+        <v-row justify="center">
+          <v-col class="page-content" cols="12">
+            <p>
+              Come join us, and experience the charm of Rio de Janeiro in July
+              with a pleasant 25°C (77°F) sunny climate. Attend FUSION 2025 at
+              the luxurious Othon Hotel by Copacabana Beach, offering easy
+              access to top attractions. The iconic Christ the Redeemer statue
+              is just 15 minutes away. Enjoy our vibrant social program (with
+              spouses invited), featuring a Brazilian barbecue, a beach
+              gathering, and possible exclusive trips to Maracanã Stadium. Join
+              us for a unique blend of professional enrichment and Rio's vibrant
+              culture!
+            </p>
+            <ul class="pl-4 pl-md-6">
+              <li class="pt-2">
+                There will be vans chartered by the conference taking the
+                attendees from the airports (Galeão and Santos Dumont​) to the
+                conference hotel. Detailed information will be sent to
+                conference registrants closer to the event.
+              </li>
+              <li class="pt-2">
+                The hotel is located in the safest zone of the city, crowded
+                with people and surrounded by numerous restaurants, even at
+                night!
+              </li>
+              <li class="pt-2">
+                Credit cards are accepted everywhere, so cash is rarely needed
+                at most places, and ATMs are widely available. You can also use
+                your cell phone for payment.
+              </li>
+              <li class="pt-2">
+                Uber is available everywhere and incredibly affordable – a ride
+                from the airport to the hotel costs less than USD 15.00.
+              </li>
+              <li class="pt-2">
+                Favorable exchange rates make everything extremely affordable in
+                Rio.
+              </li>
+            </ul>
+          </v-col>
+        </v-row>
         <v-row
           class="address my-6 px-0 mx-0 w-100"
           justify="space-around"

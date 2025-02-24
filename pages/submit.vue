@@ -214,7 +214,6 @@
         <h2 class="page-title">Important Dates</h2>
         <ul class="page-content no-list pt-2 pl-md-6">
           <li class="pt-2">– Full paper submission: March 1st, 2025</li>
-          <li class="pt-2">– Paper registration: March 1st, 2025</li>
           <li class="pt-2">
             – Notification of paper acceptance: May 1st, 2025
           </li>

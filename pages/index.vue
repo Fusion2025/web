@@ -26,22 +26,26 @@
           color="red"
         >
           <p>Paper Submissions due: March 1, 2025</p>
-          <p>Paper Registration due: March 1, 2025</p>
           <p>Acceptance Notification: May 1, 2025</p>
           <p>Camera Ready due: June 1, 2025</p>
         </v-alert>
         <p class="page-content pt-8">
-          Rio de Janeiro, Brazil, will host the 28th ISIF Fusion Conference from
-          July 7-11, 2025, the first ever in South America. Rio de Janeiro never
-          fails to impress with its modern outlook that reflects its progression
-          through the times of yore. The historic sites, sparkling beaches,
-          green belts and cheerful attitude of the locals attract tourists where
-          heaven meets earth. If Ronaldo played football at the Maracanã
-          stadium, then Christ the Redeemer put Rio on the world map. Rio's
-          carnival, with its energetic samba dancers jiggling their hips,
-          attracts thousands of tourists from around the world. The
-          rain-forests, museums, beaches, gardens and the glitz of the city have
-          made Rio what it is today Brazil's top-notch tourist destination.
+          Information Fusion conference is the premier international conference
+          dedicated to theoretical and applied information fusion technologies.
+          FUSION 2025, the 28th FUSION conference will be held in Rio de
+          Janeiro, from July 7-11, 2025, the first ever in South America.
+        </p>
+        <p class="page-content pt-4">
+          Rio de Janeiro never fails to impress with its modern outlook that
+          reflects its progression through the times of yore. The historic
+          sites, sparkling beaches, green belts and cheerful attitude of the
+          locals attract tourists where heaven meets earth. If Ronaldo played
+          football at the Maracanã stadium, then Christ the Redeemer put Rio on
+          the world map. Rio's carnival, with its energetic samba dancers
+          jiggling their hips, attracts thousands of tourists from around the
+          world. The rain-forests, museums, beaches, gardens and the glitz of
+          the city have made Rio what it is today Brazil's top-notch tourist
+          destination.
         </p>
         <p class="page-content pt-4">
           The venue is at the center of the touristic zone of Rio de Janeiro in
