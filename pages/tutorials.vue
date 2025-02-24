@@ -112,6 +112,15 @@ const fullDayTutorials = [
 
 const halfDayTutorials = [
   {
+    title:
+      "Multitarget Tracking and Multisensor Information Fusion: Recently Developed Advanced Algorithms",
+    lecturers: ["Yaakov Bar-Shalom - University of Connecticut (USA)"],
+    abstract: [
+      "This tutorial will provide to the participants several of the latest state-of-the-art advanced algorithms to estimate the states of multiple targets in clutter and multisensor information fusion. These form the basis of automated decision systems for advanced surveillance and targeting.",
+      'Advanced algorithms, including the track-to-track fusion from heterogeneous sensors and the cross-covariance between different dimension state space estimators based on the "mapped process noise" between active and passive sensors are discussed. Optimal measurement extraction from optical sensors, together with their accuracies. The Maximum Likelihood Probabilistic Data Association algorithm for VLO targets is presented together with its application to real data, where it is shown to provide earlier track detection compared to the MHT.',
+    ],
+  },
+  {
     title: "Multiagent and multiobject information fusion",
     lecturers: [
       "Luigi Chisci - Università di Firenze (Italy)",
@@ -164,6 +173,17 @@ const halfDayTutorials = [
     ],
     abstract: [
       "In this tutorial, the attendant will learn the foundations of the Poisson multi-Bernoulli mixture (PMBM) filter, a state-of-the-art multiple target tracking (MTT) algorithm that has been applied to data from lidars, radars, cameras, integrated search-and-track sensor management, 5G simultaneous localization and mapping (SLAM). In addition, the attendant will learn the relations of the PMBM filter with other MTT algorithms such as multi-Bernoulli mixture (MBM) filter, probability hypothesis density (PHD) filter, Poisson multi-Bernoulli (PMB) filter, δ-generalised labelled multi-Bernoulli (δ-GLMB) filter, multiple hypothesis tracking (MHT), and joint integrated probabilistic data association (JIPDA) filter. Finally, this tutorial will cover the extension of the PMBM filter to SLAM and sets of trajectories.",
+    ],
+  },
+  {
+    title:
+      "Quantum Computing and Quantum Physics Inspired Algorithms: Introduction and Data Fusion Examples",
+    lecturers: [
+      "Felix Govaers - Fraunhofer (Germany)",
+      "Wolfgang Koch - Fraunhofer (Germany)",
+    ],
+    abstract: [
+      'Quantum algorithms for data fusion may become game changers as soon as quantum processing kernels embedded in hybrid processing architectures with classical processors will exist. While emerging quantum technologies directly apply quantum physics, quantum algorithms do not exploit quantum physical phenomena as such, but rather use the sophisticated framework of quantum physics to deal with "uncertainty". Although the link between mathematical statistics and quantum physics has long been known, the potential of physics-inspired algorithms for data fusion has just begun to be realized. While the implementation of quantum algorithms is to be considered on classical as well as on quantum computers, the latter are anticipated as well- adapted "analog computers" for unprecedentedly fast solving data fusion and resources management problems. While the development of quantum computers cannot be taken for granted, their potential is nonetheless real and has to be considered by the international information fusion community.',
     ],
   },
   {
