@@ -119,7 +119,6 @@
         </v-menu>
         <NavbarButton to="/submit" name="SUBMIT" sep />
         <NavbarButton to="/register" name="REGISTER" sep />
-        <NavbarButton to="/bootcamp" name="BOOT CAMP" sep />
         <v-menu open-on-hover>
           <template #activator="{ props }">
             <v-btn
@@ -203,6 +202,9 @@ const programs = [
   { name: "SCHEDULE", to: "/schedule" },
   { name: "SPECIAL SESSIONS", to: "/special-sessions" },
   { name: "TUTORIALS", to: "/tutorials" },
+  { name: "BOOT CAMP", to: "/bootcamp" },
+  { name: "ATTRACTIONS", to: "/attractions" },
+  { name: "TEEN WORKSHOP", to: "/teen-workshop" },
 ];
 
 // Closes the navigation drawer in case of display size change

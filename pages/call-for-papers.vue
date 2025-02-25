@@ -260,8 +260,8 @@
           <li class="pt-2">– Final paper submission: June 1st, 2025</li>
         </ul>
       </v-col>
-      <v-col cols="12"
-    /></v-row>
+      <v-col cols="12" />
+    </v-row>
   </v-container>
 </template>
 
