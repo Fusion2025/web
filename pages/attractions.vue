@@ -69,8 +69,9 @@
       </v-col>
       <v-col cols="12" md="6" align-self="center">
         <p class="page-content" style="font-size: x-large">
-          Barbecue Dinner - We will celebrate our gathering at a famous barbecue
-          house close to Botafogo Bay. Great food and beautiful landscape.
+          Barbecue Dinner - We will celebrate our gathering at Fogo de Chão, a
+          famous barbecue house close to Botafogo Bay. Great food and beautiful
+          landscape.
         </p>
       </v-col>
     </v-row>
