@@ -25,9 +25,9 @@
           variant="tonal"
           color="red"
         >
-          <p>Paper Submissions due: March 1, 2025</p>
-          <p>Acceptance Notification: May 1, 2025</p>
-          <p>Camera Ready due: June 1, 2025</p>
+          <p>Paper Submissions due: March 1st, 2025, Anywhere on Earth (AoE)</p>
+          <p>Acceptance Notification: May 1st, 2025, Anywhere on Earth (AoE)</p>
+          <p>Camera Ready due: June 1st, 2025, Anywhere on Earth (AoE)</p>
         </v-alert>
         <p class="page-content pt-8">
           Information Fusion conference is the premier international conference
