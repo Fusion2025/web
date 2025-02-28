@@ -27,7 +27,7 @@
           </li>
           <li class="pt-2">
             Accepted papers will be included in ISIF-specified proceedings,
-            subject to meeting IEEE Xplore’s scope and quality requirements.
+            subject to meeting IEEE Xplore's scope and quality requirements.
           </li>
           <li class="pt-2">
             Each submission is limited to 2-4 pages and must be clearly labeled
@@ -82,21 +82,14 @@
           All papers must be original and not simultaneously submitted to
           another journal or conference. A submission implies willingness by the
           authors to register and present their work if the paper is accepted
-          for presentation at the conference. Accepted papers will be submitted
-          for inclusion into
-          <NuxtLink
-            to="https://ieeexplore.ieee.org/Xplore/home.jsp"
-            target="_blank"
-            >IEEE Xplore</NuxtLink
-          >
-          subject to meeting IEEE Xplore's scope and quality requirements.
+          for presentation at the conference.
         </p>
         <p class="page-content pt-4">
-          Full Papers (between 5 and 8 pages) will be reviewed for acceptance in
-          one or more of the following topics, typically involving some aspect
-          of information, data or sensor fusion. Submitted papers must be
-          formatted according to the IEEE Xplore template (A4 or Letter Size
-          Paper), provided by IEEE
+          Submitted papers (between 2 and 4 pages) will be reviewed for
+          acceptance in one or more of the following topics, typically involving
+          some aspect of information, data or sensor fusion. Submitted papers
+          must be formatted according to the IEEE Xplore template (A4 or Letter
+          Size Paper), provided by IEEE
           <NuxtLink
             to="https://www.ieee.org/conferences/publishing/templates.html"
             target="_blank"
@@ -180,30 +173,6 @@
             </ul>
           </li>
         </ul>
-      </v-col>
-      <v-col cols="12">
-        <h2 class="page-title">Template</h2>
-      </v-col>
-      <v-col cols="12">
-        <p class="page-content">
-          The submission of the review manuscript consists of a unique file, in
-          PDF format. Submitted papers MUST be formatted according to the IEEE
-          Xplore template (A4 or Letter Size Paper). Templates and other
-          supporting files for various types of operating systems can be
-          downloaded using the following link:
-          <NuxtLink
-            to="https://www.ieee.org/conferences/publishing/templates.html"
-            target="_blank"
-            >IEEE Xplore template</NuxtLink
-          >. Papers that are not correctly formatted will be desk-rejected.
-        </p>
-        <p class="page-content pt-4">
-          IEEE conference templates contain guidance text for composing and
-          formatting conference papers. Please ensure that all guidance text is
-          removed from your conference paper before submission to the
-          conference. Failure to remove template text from your paper may result
-          in your paper not being published.
-        </p>
       </v-col>
     </v-row>
     <v-row justify="center">
