@@ -101,8 +101,7 @@
             target="_blank"
             >IEEE Xplore</NuxtLink
           >
-          subject to meeting IEEE Xplore's scope and quality requirements. The
-          submission is double-blind.
+          subject to meeting IEEE Xplore's scope and quality requirements.
         </p>
         <p class="page-content pt-4">
           Full Papers (between 5 and 8 pages) will be reviewed for acceptance in
