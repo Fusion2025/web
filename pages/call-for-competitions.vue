@@ -118,7 +118,9 @@
           </li>
           <li class="pt-2">
             – Paper submission deadline to the FUSION2025 conference for
-            participants and organizing team: March 1st, 2025
+            participants and organizing team:
+            <span class="text-decoration-line-through">March 1st, 2025</span>
+            March 16th, 2025
           </li>
           <li class="pt-2">
             – Results of the competition to be announced at FUSION2025: July 7th

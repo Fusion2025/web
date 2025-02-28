@@ -101,7 +101,8 @@
             target="_blank"
             >IEEE Xplore</NuxtLink
           >
-          subject to meeting IEEE Xplore's scope and quality requirements.
+          subject to meeting IEEE Xplore's scope and quality requirements. The
+          submission is double-blind.
         </p>
         <p class="page-content pt-4">
           Full Papers (between 5 and 8 pages) will be reviewed for acceptance in
@@ -254,7 +255,9 @@
         <h2 class="page-title">Important Dates</h2>
         <ul class="page-content no-list pt-2 pl-md-6">
           <li class="pt-2">
-            – Full paper submission: March 16th, 2025, Anywhere on Earth (AoE)
+            – Full paper submission:
+            <span class="text-decoration-line-through">March 1st, 2025</span>
+            March 16th, 2025, Anywhere on Earth (AoE)
           </li>
           <li class="pt-2">
             – Notification of paper acceptance: May 1st, 2025, Anywhere on Earth

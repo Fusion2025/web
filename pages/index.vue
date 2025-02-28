@@ -26,7 +26,9 @@
           color="red"
         >
           <p>
-            Paper Submissions due: March 16th, 2025, Anywhere on Earth (AoE)
+            Paper Submissions due:
+            <span class="text-decoration-line-through">March 1st, 2025</span>
+            March 16th, 2025, Anywhere on Earth (AoE)
           </p>
           <p>Acceptance Notification: May 1st, 2025, Anywhere on Earth (AoE)</p>
           <p>Camera Ready due: June 1st, 2025, Anywhere on Earth (AoE)</p>
