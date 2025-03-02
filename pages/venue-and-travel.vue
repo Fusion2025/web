@@ -86,16 +86,18 @@
           />
         </v-row>
 
-        <v-row justify="center" class="px-10">
-          <p class="page-content my-4">
-            The conference will be held at the Rio Othon Palace Hotel,
-            overlooking the world-famous Copacabana Beach.
-          </p>
-          <p class="page-content my-4">
-            Nestled on the iconic Copacabana beachfront, the Rio Othon Palace
-            Hotel offers guests the privilege of experiencing one of Rio de
-            Janeiro's most captivating and celebrated postcards.
-          </p>
+        <v-row class="px-10">
+          <v-col>
+            <p class="page-content my-4">
+              The conference will be held at the Rio Othon Palace Hotel,
+              overlooking the world-famous Copacabana Beach.
+            </p>
+            <p class="page-content my-4">
+              Nestled on the iconic Copacabana beachfront, the Rio Othon Palace
+              Hotel offers guests the privilege of experiencing one of Rio de
+              Janeiro's most captivating and celebrated postcards.
+            </p>
+          </v-col>
         </v-row>
         <v-row justify="center" class="px-0">
           <v-col class="pa-2" cols="6">
@@ -164,6 +166,52 @@
               alt="Othon palace"
               cover
             />
+          </v-col>
+        </v-row>
+        <v-row class="py-10">
+          <v-col cols="auto" class="pa-0">
+            <h2 class="page-title px-2">Booking the Hotel</h2>
+          </v-col>
+        </v-row>
+        <v-row class="px-md-10">
+          <v-col>
+            <p class="page-content my-4">
+              A promotional code is available at
+              <NuxtLink to="https://www.othon.com.br/" target="_blank"
+                >Othon's website</NuxtLink
+              >
+              for booking to the FUSION event with special prices. The code "<b
+                style="text-decoration: underline !important"
+                >FUSION</b
+              >" is valid from July 5th, 2025 to July 14th, 2025. You can follow
+              the steps bellow to book a room:
+            </p>
+            <ul class="pl-4 pl-md-6">
+              <li class="pt-2 page-content">
+                When entering the
+                <NuxtLink to="https://www.othon.com.br/" target="_blank"
+                  >website</NuxtLink
+                >
+                the page below will appear, and you will need to fill in the
+                hotel, period of stay, number of adults and enter the
+                promotional code, then click on book (RESERVAR).
+              </li>
+              <img
+                class="pt-2"
+                src="/img/booking/booking-1.png"
+                alt="Booking"
+              />
+              <li class="pt-2 page-content">
+                The website will redirect you to the page with available rooms
+                and the discount already applied. In this section, you can also
+                change the language of your choice.
+              </li>
+              <img
+                class="pt-2"
+                src="/img/booking/booking-2.png"
+                alt="Booking"
+              />
+            </ul>
           </v-col>
         </v-row>
         <v-row class="py-10">
