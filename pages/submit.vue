@@ -12,22 +12,7 @@
           variant="tonal"
           color="red"
         >
-          <p class="text-center pl-4">
-            Please submit your original paper for FUSION 2025 using this CMT
-            link:
-          </p>
-          <p>
-            <NuxtLink
-              to="https://cmt3.research.microsoft.com/FUSION2025/Submission/Index"
-              target="_blank"
-              class="calendar-link"
-            >
-              <v-icon icon="mdi-open-in-new" size="x-small" />
-              <span class="pl-1 text-decoration-underline"
-                >Submit your paper
-              </span>
-            </NuxtLink>
-          </p>
+          <p class="text-center pl-4">Submissions are <em>CLOSED</em>.</p>
           <h2>
             <NuxtLink to="/call-for-papers" class="calendar-link">
               <v-icon icon="mdi-help-circle-outline" size="x-small" />
