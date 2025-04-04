@@ -28,7 +28,7 @@
         </v-list-group>
         <NavbarMobileButton to="/submit" name="SUBMIT" exact />
         <NavbarMobileButton to="/register" name="REGISTER" exact />
-        <NavbarMobileButton to="/bootcamp" name="BOOT CAMP" exact />
+        <NavbarMobileButton to="/scholarship" name="SCHOLARSHIP" exact />
         <v-list-group value="PROGRAM">
           <template #activator="{ props }">
             <v-list-item v-bind="props" title="PROGRAM" border="md" exact />
@@ -119,6 +119,7 @@
         </v-menu>
         <NavbarButton to="/submit" name="SUBMIT" sep />
         <NavbarButton to="/register" name="REGISTER" sep />
+        <NavbarButton to="/scholarship" name="SCHOLARSHIP" sep />
         <v-menu open-on-hover>
           <template #activator="{ props }">
             <v-btn
@@ -225,7 +226,7 @@ watch(display.lgAndUp, () => {
 
 .nav-btn {
   margin: 5px 0;
-  padding: 0 10px !important;
+  padding: 0 9px !important;
 }
 
 .nav-btn-sep {
