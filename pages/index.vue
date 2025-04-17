@@ -27,8 +27,7 @@
         >
           <p>
             Registration with reduced fee due:
-            <span class="text-decoration-line-through">March 1st, 2025</span>
-            May 15th, 2025, Anywhere on Earth (AoE)
+            <span class="text-decoration-line-through">May 15th, 2025, Anywhere on Earth (AoE)</span>
           </p>
           <p>
             Registration open at: 
