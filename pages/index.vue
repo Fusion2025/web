@@ -31,7 +31,7 @@
           </p>
           <p>
             Registration open at: 
-            <a href="https://creacteve.com.br/en/proximos-eventos/fusion-2025/">.
+            <a href="https://creacteve.com.br/en/proximos-eventos/fusion-2025/"> Registration </a>.
           </p>
           <p>Camera Ready due: June 1st, 2025, Anywhere on Earth (AoE)</p>
         </v-alert>
