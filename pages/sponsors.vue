@@ -182,6 +182,23 @@
             </v-row>
           </v-col>
         </v-row>
+        <v-row justify="center" class="px-0">
+          <v-col cols="12" class="px-0">
+            <h2 class="page-title px-10">Silver Sponsors</h2>
+            <v-row class="sponsors my-4 px-0 mx-0 w-100" justify="space-around">
+              <v-col class="text-center" cols="12" sm="4">
+                <NuxtLink to="https://www.leonardo.com/" target="_blank">
+                  <img
+                    class="sponsor h-100"
+                    draggable="false"
+                    src="/img/sponsors/leonardo.svg"
+                    alt="Leonardo"
+                  />
+                </NuxtLink>
+              </v-col>
+            </v-row>
+          </v-col>
+        </v-row>
       </v-col>
     </v-row>
   </v-container>
