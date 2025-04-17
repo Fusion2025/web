@@ -26,11 +26,14 @@
           color="red"
         >
           <p>
-            Paper Submissions due:
+            Registration with reduced fee due:
             <span class="text-decoration-line-through">March 1st, 2025</span>
-            March 16th, 2025, Anywhere on Earth (AoE)
+            May 15th, 2025, Anywhere on Earth (AoE)
           </p>
-          <p>Acceptance Notification: May 1st, 2025, Anywhere on Earth (AoE)</p>
+          <p>
+            Registration open at: 
+            <a href="https://creacteve.com.br/en/proximos-eventos/fusion-2025/">.
+          </p>
           <p>Camera Ready due: June 1st, 2025, Anywhere on Earth (AoE)</p>
         </v-alert>
         <p class="page-content pt-8">
