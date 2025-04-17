@@ -4,7 +4,7 @@
       <v-col cols="12">
         <h1 class="page-title">Registration</h1>
         <h3 class="page-content text-center pt-4">
-          The register system will open after the submission deadline.
+          The register system is open at the following <a href="https://creacteve.com.br/en/proximos-eventos/fusion-2025/">link</a>.
         </h3>
       </v-col>
     </v-row>
