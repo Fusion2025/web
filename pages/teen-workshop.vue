@@ -26,8 +26,8 @@
             application of information fusion.
           </li>
           <li class="pt-2">
-            Accepted papers will be included in ISIF-specified proceedings,
-            subject to meeting IEEE Xplore's scope and quality requirements.
+            Accepted papers will be included in public proceedings,
+            subject to a peer-review for ensuring quality requirements.
           </li>
           <li class="pt-2">
             Submissions are limited to 2 pages, including all figures and
