@@ -70,8 +70,8 @@
                         </v-col>
                         <v-col cols="12" md="6" lg="8">
                           <b>Estimation in Information Fusion</b>
-                          <p>Dale Blair</p>
-                          <p>Georgia Institute of Technology (USA)</p>
+                          <p>Gustaf Hendeby</p>
+                          <p>Linköping University (Sweden)</p>
                         </v-col>
                       </v-row>
                     </td>
