@@ -65,7 +65,7 @@
                         >
                           <img
                             class="profile-picture"
-                            src="/img/organization/program/gustaf-hendeby.jpg"
+                            src="/img/organization/technical/gustaf-hendeby.jpg"
                           />
                         </v-col>
                         <v-col cols="12" md="6" lg="8">
