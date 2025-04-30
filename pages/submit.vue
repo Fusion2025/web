@@ -191,8 +191,31 @@
       <v-col cols="12">
         <h2 class="page-title">Compatibility Test (IEEE PDF eXpress)</h2>
       </v-col>
+     <v-col cols="12">
+     <p>
+      Final versions of accepted papers are required to pass the compatibility test in IEEE PDF eXpress. It will allow you to convert your MS Word, LaTeX, or a range of other source files into IEEE Xplore-compatible files. You must use PDF eXpress to check your own PDF file. Please follow the steps below to make sure your file is compliant with IEEE Xplore®:
+     </p>
+    
+      <ul class="page-content no-list pt-2 pl-md-6">
+          <li class="pt-2">
+            – Go to the IEEE PDF eXpress website at https://ieee-pdf-express.org
+          </li>
+          <li class="pt-2">
+            – Click on ‘New User’ to create your own IEEE PDF eXpress account for Fusion 2025 using the Conference ID provided –65864X.
+          </li>
+          <li class="pt-2">
+          – If you have used IEEE PDF eXpress before, the system will recognize you as an existing user, but you still need to set up your account for Fusion 2025.
+          </li>
+          <li class="pt-2">
+           - Upload source file(s) for conversion and/or PDF(s) for checking. The site contains extensive instructions, resources, helpful hints, and access to technical support.     
+          </li>
+          <li class="pt-2">
+           - Proofread the generated PDF file thoroughly. There could be missing symbols, equations, graphs, and also reported errors. If you have reported errors, please update the source file 
+          </li>
+        </ul>
+        <p>Upon using IEEE PDF eXpress and passing the compatibility test, you will receive an email from IEEE PDF eXpress Site Services (support@incontrolproductions.net) with your manuscript (PDF file) attached. Please download this PDF file of your manuscript and upload it to the CMT submission system.</p>
 
-        
+      </v-col>
       
       <v-col cols="12">
         <h2 class="page-title">Presentation Instructions</h2>
