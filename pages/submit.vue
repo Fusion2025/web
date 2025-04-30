@@ -177,7 +177,7 @@
             – Check your accepted final paper through <a href="https://ieee-pdf-express.org/">IEEE PDF eXpress</a> (FUSION 2025 conference ID: 65864X).
           </li>
           <li class="pt-2">
-          – Register for the conference by May 15th, 2025 AND provide your <a href="https://cmt3.research.microsoft.com/">CMT paper ID </a> in the registration system.
+          – Register for the conference by June 1st, 2025 AND provide your <a href="https://cmt3.research.microsoft.com/">CMT paper ID </a> in the registration system.
           </li>
           <li class="pt-2">
            - Complete the <a href="https://docs.google.com/document/d/18Lagl3RMraR-M-u12i5QbSV1-fz38FzkeA4yC8iCw8Q/edit?usp=sharing">ISIF Copyright Form </a> and upload the signed form <a href ="https://forms.gle/mMrtTR6CGhLpopSG7">here </a> by June 1, 2025.
@@ -225,7 +225,7 @@
       </v-col>
       <v-col cols="12">
         <p class="page-content">
-          One of the co-authors must register for the conference at the regular
+          One of the co-authors must register for the conference at the regular or student
           rate by June 1st and present the paper on-site at the
           conference in Rio de Janeiro for it to be included in both IEEE Xplore
           and the online ISIF FUSION 2025 proceedings:
