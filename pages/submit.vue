@@ -166,8 +166,34 @@
         <h2 class="page-title">Submission of Final Manuscripts</h2>
       </v-col>
       <v-col cols="12">
-        <p class="page-content">To be announced</p>
+        <p class="page-content">
+          After receiving your paper acceptance notification, follow the steps below to ensure the proper final submission of your paper and inclusion in the conference proceedings. Detailed instructions can be found below the process steps.
+        </p>
+        <ul class="page-content no-list pt-2 pl-md-6">
+          <li class="pt-2">
+            – Review the paper (5-8 pages) to ensure it meets the correct IEEE template (see above).
+          </li>
+          <li class="pt-2">
+            – Check your accepted final paper through IEEE PDF eXpress (FUSION 2025 conference ID: 65864X).
+          </li>
+          <li class="pt-2">
+          – Register for the conference by the early-bird deadline of June 1, 2025 AND provide your CMT paper ID in the registration system.
+          </li>
+          <li class="pt-2">
+           - Complete the ISIF Copyright Form and upload the signed form here by June 1, 2025.
+          </li>
+          <li class="pt-2">
+           - Upload your Final Paper Manuscript by June 1, 2025 in CMT.
+          </li>
+        </ul>
+</v-col>
+      
+      <v-col cols="12">
+        <h2 class="page-title">Compatibility Test (IEEE PDF eXpress)</h2>
       </v-col>
+
+        
+      
       <v-col cols="12">
         <h2 class="page-title">Presentation Instructions</h2>
       </v-col>
