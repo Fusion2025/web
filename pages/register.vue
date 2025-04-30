@@ -17,8 +17,8 @@
           <thead>
             <tr>
               <th id="0" class="text-center"><b>Registration type</b></th>
-              <th id="1" class="text-center"><b>Until May 15th</b></th>
-              <th id="2" class="text-center"><b>After May 15th</b></th>
+              <th id="1" class="text-center"><b>Until June 1st</b></th>
+              <th id="2" class="text-center"><b>After June 1st</b></th>
               <th id="3" class="text-center"><b>Onsite</b></th>
             </tr>
           </thead>
