@@ -223,7 +223,7 @@
       <v-col cols="12">
         <p class="page-content">
           One of the co-authors must register for the conference at the regular
-          or student rate by June 1st and present the paper on-site at the
+          rate by June 1st and present the paper on-site at the
           conference in Rio de Janeiro for it to be included in both IEEE Xplore
           and the online ISIF FUSION 2025 proceedings:
         </p>
