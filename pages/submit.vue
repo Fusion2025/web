@@ -192,7 +192,7 @@
         <h2 class="page-title">Compatibility Test (IEEE PDF eXpress)</h2>
       </v-col>
      <v-col cols="12">
-     <p>
+     <p class="page-content pt-4">
       Final versions of accepted papers are required to pass the compatibility test in IEEE PDF eXpress. It will allow you to convert your MS Word, LaTeX, or a range of other source files into IEEE Xplore-compatible files. You must use PDF eXpress to check your own PDF file. Please follow the steps below to make sure your file is compliant with IEEE Xplore®:
      </p>
     
@@ -213,7 +213,7 @@
            - Proofread the generated PDF file thoroughly. There could be missing symbols, equations, graphs, and also reported errors. If you have reported errors, please update the source file 
           </li>
         </ul>
-        <p>Upon using IEEE PDF eXpress and passing the compatibility test, you will receive an email from IEEE PDF eXpress Site Services (support@incontrolproductions.net) with your manuscript (PDF file) attached. Please download this PDF file of your manuscript and upload it to the CMT submission system.</p>
+        <p class="page-content pt-4">Upon using IEEE PDF eXpress and passing the compatibility test, you will receive an email from IEEE PDF eXpress Site Services (support@incontrolproductions.net) with your manuscript (PDF file) attached. Please download this PDF file of your manuscript and upload it to the CMT submission system.</p>
 
       </v-col>
       
