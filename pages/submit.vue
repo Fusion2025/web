@@ -174,13 +174,13 @@
             – Review the paper (5-8 pages) to ensure it meets the correct IEEE template (see above).
           </li>
           <li class="pt-2">
-            – Check your accepted final paper through IEEE PDF eXpress (FUSION 2025 conference ID: 65864X).
+            – Check your accepted final paper through <a href="https://ieee-pdf-express.org/">IEEE PDF eXpress</a> (FUSION 2025 conference ID: 65864X).
           </li>
           <li class="pt-2">
-          – Register for the conference by the early-bird deadline of June 1, 2025 AND provide your CMT paper ID in the registration system.
+          – Register for the conference by the early-bird deadline of June 1, 2025 AND provide your <a href="https://cmt3.research.microsoft.com/">CMT paper ID </a> in the registration system.
           </li>
           <li class="pt-2">
-           - Complete the ISIF Copyright Form and upload the signed form here by June 1, 2025.
+           - Complete the <a href="https://docs.google.com/document/d/18Lagl3RMraR-M-u12i5QbSV1-fz38FzkeA4yC8iCw8Q/edit?usp=sharing">ISIF Copyright Form </a> and upload the signed form <a href ="https://forms.gle/mMrtTR6CGhLpopSG7">here </a> by June 1, 2025.
           </li>
           <li class="pt-2">
            - Upload your Final Paper Manuscript by June 1, 2025 in CMT.
@@ -201,7 +201,7 @@
             – Go to the IEEE PDF eXpress website at https://ieee-pdf-express.org
           </li>
           <li class="pt-2">
-            – Click on ‘New User’ to create your own IEEE PDF eXpress account for Fusion 2025 using the Conference ID provided –65864X.
+            – Click on ‘New User’ to create your own <a href="https://ieee-pdf-express.org/">IEEE PDF eXpress</a> account for Fusion 2025 using the Conference ID provided –65864X.
           </li>
           <li class="pt-2">
           – If you have used IEEE PDF eXpress before, the system will recognize you as an existing user, but you still need to set up your account for Fusion 2025.
