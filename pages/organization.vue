@@ -716,10 +716,10 @@ const industrialChairs = [
 ];
 const publicationChairs = [
   {
-    name: "Gregor Pavlin",
-    affiliation: "Thales Research",
-    country: "Netherlands",
-    picture: "publication/gregor-pavlin.jpg",
+    name: "Jacques van Wyk",
+    affiliation: "University of Pretoria",
+    country: "South Africa",
+    picture: "publication/jacques-van-wyk.jpg",
   },
   {
     name: "Pieter de Villiers",
