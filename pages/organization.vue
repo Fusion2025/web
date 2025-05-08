@@ -719,7 +719,7 @@ const publicationChairs = [
     name: "Jacques van Wyk",
     affiliation: "University of Pretoria",
     country: "South Africa",
-    picture: "publication/jacques-van-wyk.jpg",
+    picture: "publication/jacquesvanWyk.png",
   },
   {
     name: "Pieter de Villiers",
