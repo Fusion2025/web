@@ -7,31 +7,6 @@
     </v-row>
     <v-row justify="center">
       <v-col cols="12">
-        <v-alert
-          class="text-center submission-link"
-          variant="tonal"
-          color="red"
-        >
-          <p class="text-center pl-4">Submissions are <em>CLOSED</em>.</p>
-          <h2>
-            <NuxtLink to="/call-for-papers" class="calendar-link">
-              <v-icon icon="mdi-help-circle-outline" size="x-small" />
-              <span class="pl-1 text-decoration-underline"
-                >Topics of Interest
-              </span>
-            </NuxtLink>
-          </h2>
-          <h2>
-            <NuxtLink to="/special-sessions" class="calendar-link">
-              <v-icon icon="mdi-help-circle-outline" size="x-small" />
-              <span class="pl-1 text-decoration-underline"
-                >Special Sessions
-              </span>
-            </NuxtLink>
-          </h2>
-        </v-alert>
-      </v-col>
-      <v-col cols="12">
         <h2 class="page-title">Paper Submission Guidelines</h2>
       </v-col>
       <v-col cols="12">
