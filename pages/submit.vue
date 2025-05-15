@@ -34,11 +34,11 @@
           </li>
         </ul>
 </v-col>
-       <v-col class="text-center" cols="12" lg="auto" md="auto"
-            ><GlobalButton
-              href=href="https://cmt3.research.microsoft.com/">CMT Submission
+       <v-col class="text-center" cols="12" lg="auto" md="auto">
+           <GlobalButton href="https://cmt3.research.microsoft.com/">
+              CMT Submission
             </GlobalButton>
-          </v-col>
+        </v-col>
       <v-col cols="12">
         <h2 class="page-title">Compatibility Test (IEEE PDF eXpress)</h2>
       </v-col>
