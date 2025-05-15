@@ -15,7 +15,7 @@
         </p>
         <ul class="page-content no-list pt-2 pl-md-6">
           <li class="pt-2">
-            – Review the paper (5-8 pages) to ensure it meets the correct IEEE template (see above).
+            – Review the paper (5-8 pages) to ensure it meets the correct IEEE template (see bellow).
           </li>
           <li class="pt-2">
             – Check your accepted final paper through <a href="https://ieee-pdf-express.org/">IEEE PDF eXpress</a> (FUSION 2025 conference ID: 65864X).
@@ -34,7 +34,11 @@
           </li>
         </ul>
 </v-col>
-      
+       <v-col class="text-center" cols="12" lg="auto" md="auto"
+            ><GlobalButton
+              href=href="https://cmt3.research.microsoft.com/">CMT Submission
+            </GlobalButton>
+          </v-col>
       <v-col cols="12">
         <h2 class="page-title">Compatibility Test (IEEE PDF eXpress)</h2>
       </v-col>
