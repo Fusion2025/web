@@ -62,7 +62,7 @@
           </v-col>
           <v-col class="text-center" cols="12" lg="auto" md="auto"
             ><GlobalButton
-              href="https://www.othon.com.br/hotel-copacabana/rio-othon-palace"
+              href="https://eventos.blumar.com.br/Fusion2025"
               >Hotel website</GlobalButton
             >
           </v-col>
