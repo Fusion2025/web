@@ -201,6 +201,7 @@ const calls = [
 // Navigation bar program buttons
 const programs = [
   { name: "SCHEDULE", to: "/schedule" },
+  { name: "KEYNOTES", to: "/keynotes" },
   { name: "SPECIAL SESSIONS", to: "/special-sessions" },
   { name: "TUTORIALS", to: "/tutorials" },
   { name: "BOOT CAMP", to: "/bootcamp" },
