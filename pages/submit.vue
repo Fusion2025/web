@@ -6,7 +6,92 @@
       </v-col>
     </v-row>
     <v-row justify="center">
+       <v-col cols="12">
+        <h2 class="page-title">Submission of Final Manuscripts</h2>
+      </v-col>
       <v-col cols="12">
+        <p class="page-content">
+          After receiving your paper acceptance notification, follow the steps below to ensure the proper final submission of your paper and inclusion in the conference proceedings. Detailed instructions can be found below the process steps.
+        </p>
+        <ul class="page-content no-list pt-2 pl-md-6">
+          <li class="pt-2">
+            – Review the paper (5-8 pages) to ensure it meets the correct IEEE template (see above).
+          </li>
+          <li class="pt-2">
+            – Check your accepted final paper through <a href="https://ieee-pdf-express.org/">IEEE PDF eXpress</a> (FUSION 2025 conference ID: 65864X).
+          </li>
+          <li class="pt-2">
+          – Register for the conference by June 1st, 2025 AND provide your <a href="https://cmt3.research.microsoft.com/">CMT paper ID </a> in the registration system.
+          </li>
+          <li class="pt-2">
+           - Complete the <a href="https://docs.google.com/document/d/18Lagl3RMraR-M-u12i5QbSV1-fz38FzkeA4yC8iCw8Q/edit?usp=sharing">ISIF Copyright Form </a> and upload the signed form <a href ="https://forms.gle/mMrtTR6CGhLpopSG7">here </a> by June 1, 2025.
+          </li>
+          <li class="pt-2">
+           - Upload your Final Paper Manuscript by June 1, 2025 in CMT.
+          </li>
+          <li class="pt-2">
+            - A paper could have up to 2 additional pages, each addtional page cost U$100.
+          </li>
+        </ul>
+</v-col>
+      
+      <v-col cols="12">
+        <h2 class="page-title">Compatibility Test (IEEE PDF eXpress)</h2>
+      </v-col>
+     <v-col cols="12">
+     <p class="page-content pt-4">
+      Final versions of accepted papers are required to pass the compatibility test in IEEE PDF eXpress. It will allow you to convert your MS Word, LaTeX, or a range of other source files into IEEE Xplore-compatible files. You must use PDF eXpress to check your own PDF file. Please follow the steps below to make sure your file is compliant with IEEE Xplore®:
+     </p>
+    
+      <ul class="page-content no-list pt-2 pl-md-6">
+          <li class="pt-2">
+            – Go to the IEEE PDF eXpress website at https://ieee-pdf-express.org
+          </li>
+          <li class="pt-2">
+            – Click on ‘New User’ to create your own <a href="https://ieee-pdf-express.org/">IEEE PDF eXpress</a> account for Fusion 2025 using the Conference ID provided –65864X.
+          </li>
+          <li class="pt-2">
+          – If you have used IEEE PDF eXpress before, the system will recognize you as an existing user, but you still need to set up your account for Fusion 2025.
+          </li>
+          <li class="pt-2">
+           - Upload source file(s) for conversion and/or PDF(s) for checking. The site contains extensive instructions, resources, helpful hints, and access to technical support.     
+          </li>
+          <li class="pt-2">
+           - Proofread the generated PDF file thoroughly. There could be missing symbols, equations, graphs, and also reported errors. If you have reported errors, please update the source file 
+          </li>
+        </ul>
+        <p class="page-content pt-4">Upon using IEEE PDF eXpress and passing the compatibility test, you will receive an email from IEEE PDF eXpress Site Services (support@incontrolproductions.net) with your manuscript (PDF file) attached. Please download this PDF file of your manuscript and upload it to the CMT submission system.</p>
+
+      </v-col>
+      
+      <v-col cols="12">
+        <h2 class="page-title">Presentation Instructions</h2>
+      </v-col>
+      <v-col cols="12">
+        <p class="page-content">
+          One of the co-authors must register for the conference at the regular or student
+          rate by June 1st and present the paper on-site at the
+          conference in Rio de Janeiro for it to be included in both IEEE Xplore
+          and the online ISIF FUSION 2025 proceedings:
+        </p>
+        <ul class="page-content no-list pt-2 pl-md-6">
+          <li class="pt-2">
+            – Each paper will be allocated 15 minutes for its presentation,
+            which will be followed by 5 minutes for questions;
+          </li>
+          <li class="pt-2">
+            – Each room has a computer with MS PowerPoint and Acrobat Reader;
+          </li>
+          <li class="pt-2">
+            – The final conference programme and full room allocations and
+            scheduling details will be available by mid-June. All rooms are on
+            the ground floor and within 2 minutes walking distance.
+          </li>
+        </ul>
+      </v-col>
+    </v-row>
+    <v-row>
+ <v-col cols="12">
         <h2 class="page-title">Paper Submission Guidelines</h2>
       </v-col>
       <v-col cols="12">
@@ -113,92 +198,7 @@
           </li>
         </ul>
       </v-col>
-       <v-col cols="12">
-        <h2 class="page-title">Submission of Final Manuscripts</h2>
-      </v-col>
-      <v-col cols="12">
-        <p class="page-content">
-          After receiving your paper acceptance notification, follow the steps below to ensure the proper final submission of your paper and inclusion in the conference proceedings. Detailed instructions can be found below the process steps.
-        </p>
-        <ul class="page-content no-list pt-2 pl-md-6">
-          <li class="pt-2">
-            – Review the paper (5-8 pages) to ensure it meets the correct IEEE template (see above).
-          </li>
-          <li class="pt-2">
-            – Check your accepted final paper through <a href="https://ieee-pdf-express.org/">IEEE PDF eXpress</a> (FUSION 2025 conference ID: 65864X).
-          </li>
-          <li class="pt-2">
-          – Register for the conference by June 1st, 2025 AND provide your <a href="https://cmt3.research.microsoft.com/">CMT paper ID </a> in the registration system.
-          </li>
-          <li class="pt-2">
-           - Complete the <a href="https://docs.google.com/document/d/18Lagl3RMraR-M-u12i5QbSV1-fz38FzkeA4yC8iCw8Q/edit?usp=sharing">ISIF Copyright Form </a> and upload the signed form <a href ="https://forms.gle/mMrtTR6CGhLpopSG7">here </a> by June 1, 2025.
-          </li>
-          <li class="pt-2">
-           - Upload your Final Paper Manuscript by June 1, 2025 in CMT.
-          </li>
-          <li class="pt-2">
-            - A paper could have up to 2 additional pages, each addtional page cost U$100.
-          </li>
-        </ul>
-</v-col>
-      
-      <v-col cols="12">
-        <h2 class="page-title">Compatibility Test (IEEE PDF eXpress)</h2>
-      </v-col>
-     <v-col cols="12">
-     <p class="page-content pt-4">
-      Final versions of accepted papers are required to pass the compatibility test in IEEE PDF eXpress. It will allow you to convert your MS Word, LaTeX, or a range of other source files into IEEE Xplore-compatible files. You must use PDF eXpress to check your own PDF file. Please follow the steps below to make sure your file is compliant with IEEE Xplore®:
-     </p>
-    
-      <ul class="page-content no-list pt-2 pl-md-6">
-          <li class="pt-2">
-            – Go to the IEEE PDF eXpress website at https://ieee-pdf-express.org
-          </li>
-          <li class="pt-2">
-            – Click on ‘New User’ to create your own <a href="https://ieee-pdf-express.org/">IEEE PDF eXpress</a> account for Fusion 2025 using the Conference ID provided –65864X.
-          </li>
-          <li class="pt-2">
-          – If you have used IEEE PDF eXpress before, the system will recognize you as an existing user, but you still need to set up your account for Fusion 2025.
-          </li>
-          <li class="pt-2">
-           - Upload source file(s) for conversion and/or PDF(s) for checking. The site contains extensive instructions, resources, helpful hints, and access to technical support.     
-          </li>
-          <li class="pt-2">
-           - Proofread the generated PDF file thoroughly. There could be missing symbols, equations, graphs, and also reported errors. If you have reported errors, please update the source file 
-          </li>
-        </ul>
-        <p class="page-content pt-4">Upon using IEEE PDF eXpress and passing the compatibility test, you will receive an email from IEEE PDF eXpress Site Services (support@incontrolproductions.net) with your manuscript (PDF file) attached. Please download this PDF file of your manuscript and upload it to the CMT submission system.</p>
-
-      </v-col>
-      
-      <v-col cols="12">
-        <h2 class="page-title">Presentation Instructions</h2>
-      </v-col>
-      <v-col cols="12">
-        <p class="page-content">
-          One of the co-authors must register for the conference at the regular or student
-          rate by June 1st and present the paper on-site at the
-          conference in Rio de Janeiro for it to be included in both IEEE Xplore
-          and the online ISIF FUSION 2025 proceedings:
-        </p>
-        <ul class="page-content no-list pt-2 pl-md-6">
-          <li class="pt-2">
-            – Each paper will be allocated 15 minutes for its presentation,
-            which will be followed by 5 minutes for questions;
-          </li>
-          <li class="pt-2">
-            – Each room has a computer with MS PowerPoint and Acrobat Reader;
-          </li>
-          <li class="pt-2">
-            – The final conference programme and full room allocations and
-            scheduling details will be available by mid-June. All rooms are on
-            the ground floor and within 2 minutes walking distance.
-          </li>
-        </ul>
-      </v-col>
-    </v-row>
-    <v-row>
-
+     
        <v-col cols="12">
         <h2 class="page-title">Template</h2>
       </v-col>
