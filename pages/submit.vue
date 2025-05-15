@@ -113,31 +113,7 @@
           </li>
         </ul>
       </v-col>
-      <v-col cols="12">
-        <h2 class="page-title">Template</h2>
-      </v-col>
-      <v-col cols="12">
-        <p class="page-content">
-          The submission of the review manuscript consists of a unique file, in
-          PDF format. Submitted papers MUST be formatted according to the IEEE
-          Xplore template (A4 or Letter Size Paper). Templates and other
-          supporting files for various types of operating systems can be
-          downloaded using the following link:
-          <NuxtLink
-            to="https://www.ieee.org/conferences/publishing/templates.html"
-            target="_blank"
-            >IEEE Xplore template</NuxtLink
-          >. Papers that are not correctly formatted will be desk-rejected.
-        </p>
-        <p class="page-content pt-4">
-          IEEE conference templates contain guidance text for composing and
-          formatting conference papers. Please ensure that all guidance text is
-          removed from your conference paper before submission to the
-          conference. Failure to remove template text from your paper may result
-          in your paper not being published.
-        </p>
-      </v-col>
-      <v-col cols="12">
+       <v-col cols="12">
         <h2 class="page-title">Submission of Final Manuscripts</h2>
       </v-col>
       <v-col cols="12">
@@ -222,6 +198,32 @@
       </v-col>
     </v-row>
     <v-row>
+
+       <v-col cols="12">
+        <h2 class="page-title">Template</h2>
+      </v-col>
+      <v-col cols="12">
+        <p class="page-content">
+          The submission of the review manuscript consists of a unique file, in
+          PDF format. Submitted papers MUST be formatted according to the IEEE
+          Xplore template (A4 or Letter Size Paper). Templates and other
+          supporting files for various types of operating systems can be
+          downloaded using the following link:
+          <NuxtLink
+            to="https://www.ieee.org/conferences/publishing/templates.html"
+            target="_blank"
+            >IEEE Xplore template</NuxtLink
+          >. Papers that are not correctly formatted will be desk-rejected.
+        </p>
+        <p class="page-content pt-4">
+          IEEE conference templates contain guidance text for composing and
+          formatting conference papers. Please ensure that all guidance text is
+          removed from your conference paper before submission to the
+          conference. Failure to remove template text from your paper may result
+          in your paper not being published.
+        </p>
+      </v-col>
+
       <v-col cols="12">
         <h2 class="page-title">Important Dates</h2>
         <ul class="page-content no-list pt-2 pl-md-6">
