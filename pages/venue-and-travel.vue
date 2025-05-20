@@ -46,6 +46,9 @@
                 Favorable exchange rates make everything extremely affordable in
                 Rio.
               </li>
+              <li class="pt-2">
+                Blumar Turismo will be the official agency of the event. See the buttom bellow.
+              </li>
             </ul>
           </v-col>
         </v-row>
@@ -63,18 +66,10 @@
           <v-col class="text-center" cols="12" lg="auto" md="auto"
             ><GlobalButton
               href="https://eventos.blumar.com.br/Fusion2025"
-              >Hotel website</GlobalButton
+              >Travel Agency Link</GlobalButton
             >
           </v-col>
-          <v-col class="text-center" cols="12" lg="auto" md="auto"
-            ><img
-              class="othon-logo"
-              draggable="false"
-              src="/img/logos/logoOthon.png"
-              alt="Othon"
-            />
-          </v-col>
-        </v-row>
+                  </v-row>
 
         <v-row class="px-0">
           <iframe
@@ -171,47 +166,6 @@
         <v-row class="py-10">
           <v-col cols="auto" class="pa-0">
             <h2 class="page-title px-2">Booking the Hotel</h2>
-          </v-col>
-        </v-row>
-        <v-row class="px-md-10">
-          <v-col>
-            <p class="page-content my-4">
-              A promotional code is available at
-              <NuxtLink to="https://www.othon.com.br/" target="_blank"
-                >Othon's website</NuxtLink
-              >
-              for booking to the FUSION event with special prices. The code "<b
-                style="text-decoration: underline !important"
-                >FUSION</b
-              >" is valid from July 5th, 2025 to July 14th, 2025. You can follow
-              the steps bellow to book a room:
-            </p>
-            <ul class="pl-4 pl-md-6">
-              <li class="pt-2 page-content">
-                When entering the
-                <NuxtLink to="https://www.othon.com.br/" target="_blank"
-                  >website</NuxtLink
-                >
-                the page below will appear, and you will need to fill in the
-                hotel, period of stay, number of adults and enter the
-                promotional code, then click on book (RESERVAR).
-              </li>
-              <img
-                class="pt-2"
-                src="/img/booking/booking-1.png"
-                alt="Booking"
-              />
-              <li class="pt-2 page-content">
-                The website will redirect you to the page with available rooms
-                and the discount already applied. In this section, you can also
-                change the language of your choice.
-              </li>
-              <img
-                class="pt-2"
-                src="/img/booking/booking-2.png"
-                alt="Booking"
-              />
-            </ul>
           </v-col>
         </v-row>
         <v-row class="py-10">
