@@ -372,16 +372,7 @@
             </v-row>
           </v-col>
         </v-row>
-        <v-row class="px-2 pb-10">
-          <v-col cols="auto" class="pa-0">
-            <h2 class="page-title">Hotels Near the Event</h2>
-          </v-col> </v-row
-        ><v-row v-for="(item, index) in hotelsInfo" :key="index" class="px-2">
-          <HotelCard
-            :format="index % 2 === 0 ? 'normal' : 'reverse'"
-            :hotel-info="item"
-          />
-        </v-row>
+               </v-row>
       </v-col>
     </v-row>
   </v-container>
