@@ -372,53 +372,11 @@
             </v-row>
           </v-col>
         </v-row>
-               </v-row>
       </v-col>
     </v-row>
   </v-container>
 </template>
 
-<script>
-import GlobalButton from "~/components/GlobalButton.vue";
-import HotelCard from "~/components/HotelCard.vue";
-
-export default {
-  components: {
-    GlobalButton,
-    HotelCard,
-  },
-  data() {
-    return {
-      hotelsInfo: [
-        {
-          name: "Fairmont Rio de Janeiro Copacabana",
-          address: "Av. Atlântica, 4240 Copacabana, Rio de Janeiro",
-          link: "https://fairmontrio.com/",
-          image: "/img/hotels/hotelFairmont.jpg",
-        },
-        {
-          name: "Orla Copacabana Hotel",
-          address: " Av. Atlântica, 4122 Copacabana, Rio de Janeiro",
-          link: "https://www.orlahotel.com.br/",
-          image: "/img/hotels/hotelOrla.jpg",
-        },
-        {
-          name: "Mirador Rio Hotel",
-          address: "Rua Tonelero, 338 Copacabana, Rio de Janeiro",
-          link: "https://www.hotelmirador.com.br/",
-          image: "/img/hotels/hotelMirador.jpg",
-        },
-        {
-          name: "Hotel Astória Copacabana",
-          address: "Rua República do Peru, 345 Copacabana, Rio de Janeiro",
-          link: "https://astoria.com.br/",
-          image: "/img/hotels/hotelAstoria.jpg",
-        },
-      ],
-    };
-  },
-};
-</script>
 
 <style scoped>
 .address {
