@@ -167,6 +167,13 @@
           <v-col cols="auto" class="pa-0">
             <h2 class="page-title px-2">Booking the Hotel</h2>
           </v-col>
+          <v-col class="text-center" cols="12" lg="auto" md="auto"
+            ><GlobalButton
+              href="https://eventos.blumar.com.br/Fusion2025"
+              >Travel Agency Link</GlobalButton
+            >
+          </v-col>
+
         </v-row>
         <v-row class="py-10">
           <v-col cols="auto" class="pa-0">
