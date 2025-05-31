@@ -25,27 +25,27 @@
           <tbody>
             <tr>
               <td>FULL</td>
-              <td>USD 675.00</td>
-              <td>USD 775.00</td>
-              <td>USD 875.00</td>
+              <td>USD 675.00/ BRL 4.050 </td>
+              <td>USD 775.00/ BRL 4.650</td>
+              <td>USD 875.00/ BRL 5.250</td>
             </tr>
             <tr>
               <td>STUDENT</td>
-              <td>USD 395.00</td>
-              <td>USD 495.00</td>
-              <td>USD 595.00</td>
+              <td>USD 395.00/ BRL 2370</td>
+              <td>USD 495.00/ BRL 2970</td>
+              <td>USD 595.00/ BRL 3570</td>
             </tr>
             <tr>
               <td>SINGLE TUTORIAL</td>
-              <td>USD 300.00</td>
-              <td>USD 300.00</td>
-              <td>USD 300.00</td>
+              <td>USD 300.00 /BRL 1800</td>
+              <td>USD 300.00 /BRL 1800</td>
+              <td>USD 300.00 /BRL 1800</td>
             </tr>
             <tr>
               <td>BOOT CAMP</td>
-              <td>USD 100.00</td>
-              <td>USD 100.00</td>
-              <td>USD 100.00</td>
+              <td>USD 100.00 /BRL 600 </td>
+              <td>USD 100.00 /BRL 600</td>
+              <td>USD 100.00 /BRL 600</td>
             </tr>
           </tbody>
         </v-table>
