@@ -33,6 +33,7 @@
             <a href="https://creacteve.com.br/en/proximos-eventos/fusion-2025/"> Registration </a>.
           </p>
           <p>Camera Ready due: June 1st, 2025, Anywhere on Earth (AoE)</p>
+          <p>If you require a VISA letter, please send an email to contact@fusion2025.org</p>
         </v-alert>
         <p class="page-content pt-8">
           Information Fusion conference is the premier international conference
