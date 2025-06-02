@@ -26,7 +26,7 @@
           color="red"
         >
           <p>
-            Registration with reduced fee due: June 1st, 2025, Anywhere on Earth (AoE)
+            Registration with reduced fee due: June 4th, 2025, Anywhere on Earth (AoE)
           </p>
           <p>
             Registration open at: 
