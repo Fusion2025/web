@@ -81,24 +81,28 @@
                 </colgroup>
                 <tbody>
                   <tr>
-                    <td class="td-1">09:45</td>
+                    <td class="td-1">07:45</td>
+                    <td class="td-1">Registration</td>
+                  </tr>
+                  <tr>
+                    <td class="td-1">08:15</td>
                     <td class="td-1">Welcoming</td>
                   </tr>
                   <tr>
-                    <td class="td-n">10:00</td>
-                    <td class="td-n">Keynote</td>
+                    <td class="td-1">08:30</td>
+                    <td class="td-1">Visiting Sugar Loaf</td>
                   </tr>
                   <tr>
-                    <td class="td-n">11:00 - 13:00</td>
-                    <td class="td-n">Paper session</td>
+                    <td class="td-n">12:00</td>
+                    <td class="td-n">Keynote 1 - Prof. Marcelo Rovai</td>
                   </tr>
-                  <tr>
+                   <tr>
                     <td class="td-n">13:00 - 14:30</td>
-                    <td class="td-n">Coffee break</td>
+                    <td class="td-n">Lunch</td>
                   </tr>
                   <tr>
                     <td class="td-n">14:30 - 16:30</td>
-                    <td class="td-n">Paper session</td>
+                    <td class="td-n">Paper sessions</td>
                   </tr>
                   <tr>
                     <td class="td-n">16:30 - 17:00</td>
@@ -106,7 +110,7 @@
                   </tr>
                   <tr>
                     <td class="td-n">17:00 - 19:00</td>
-                    <td class="td-n">Paper session</td>
+                    <td class="td-n">Paper sessions</td>
                   </tr>
                   <tr>
                     <td class="td-n">20:00</td>
@@ -135,19 +139,19 @@
                   </tr>
                   <tr>
                     <td class="td-n">10:00</td>
-                    <td class="td-n">Keynote</td>
+                    <td class="td-n">Keynote 2 - Prof. João Paulo Papa</td>
                   </tr>
                   <tr>
                     <td class="td-n">11:00 - 13:00</td>
-                    <td class="td-n">Paper session</td>
+                    <td class="td-n">Paper sessions</td>
                   </tr>
                   <tr>
                     <td class="td-n">13:00 - 14:30</td>
-                    <td class="td-n">Coffee break</td>
+                    <td class="td-n">Lunch</td>
                   </tr>
                   <tr>
                     <td class="td-n">14:30 - 16:30</td>
-                    <td class="td-n">Paper session</td>
+                    <td class="td-n">Paper sessions</td>
                   </tr>
                   <tr>
                     <td class="td-n">16:30 - 17:00</td>
@@ -155,11 +159,11 @@
                   </tr>
                   <tr>
                     <td class="td-n">17:00 - 19:00</td>
-                    <td class="td-n">Paper session</td>
+                    <td class="td-n">Paper sessions</td>
                   </tr>
                   <tr>
                     <td class="td-n">20:00</td>
-                    <td class="td-n">Gala dinner</td>
+                    <td class="td-n">Gala dinner - at Fogo de Chão</td>
                   </tr>
                 </tbody>
               </v-table>
@@ -184,15 +188,15 @@
                   </tr>
                   <tr>
                     <td class="td-n">10:00</td>
-                    <td class="td-n">Keynote</td>
+                    <td class="td-n">Keynote 3</td>
                   </tr>
                   <tr>
                     <td class="td-n">11:00 - 13:00</td>
-                    <td class="td-n">Paper session</td>
+                    <td class="td-n">Paper sessions</td>
                   </tr>
                   <tr>
                     <td class="td-n">13:00 - 14:30</td>
-                    <td class="td-n">Lunch in the hotel</td>
+                    <td class="td-n">Lunch</td>
                   </tr>
                   <tr>
                     <td class="td-n">15:00</td>
