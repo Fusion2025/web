@@ -85,7 +85,7 @@
                     <td class="td-1">Registration</td>
                   </tr>
                   <tr>
-                    <td class="td-1">08:15</td>
+                    <td class="td-1">08:00</td>
                     <td class="td-1">Welcoming</td>
                   </tr>
                   <tr>
