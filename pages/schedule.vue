@@ -3,7 +3,7 @@
     <v-row justify="center">
       <v-col cols="auto">
         <h1 class="page-title">Schedule</h1>
-        <h1 class="page-title" style="color: red">(Preliminary)</h1>
+        <h1 class="page-title" style="color: red">You will be able to download the detailed schedule at <a href="https://drive.google.com/file/d/1O2d8wU9dDngrmjveDd65zuIbDTj293sj/view?usp=sharing"> this link</a></h1>
       </v-col>
     </v-row>
     <v-row justify="center">
