@@ -26,14 +26,13 @@
           color="red"
         >
           <p>
-            Registration with reduced fee due: June 4th, 2025, Anywhere on Earth (AoE)
+            You will be able to download the detailed schedule at <a href="https://drive.google.com/file/d/1O2d8wU9dDngrmjveDd65zuIbDTj293sj/view?usp=sharing"> this link</a>
           </p>
           <p>
             Registration open at: 
             <a href="https://creacteve.com.br/en/proximos-eventos/fusion-2025/"> Registration </a>.
           </p>
-          <p>Camera Ready due: June 1st, 2025, Anywhere on Earth (AoE)</p>
-          <p>If you require a VISA letter, please send an email to contact@fusion2025.org</p>
+           <p>If you require a VISA letter, please send an email to contact@fusion2025.org</p>
         </v-alert>
         <p class="page-content pt-8">
           Information Fusion conference is the premier international conference
