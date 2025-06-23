@@ -26,13 +26,23 @@
           color="red"
         >
           <p>
-            You will be able to download the detailed schedule at <a href="https://drive.google.com/file/d/1O2d8wU9dDngrmjveDd65zuIbDTj293sj/view?usp=sharing"> this link</a>
+            You will be able to download the detailed schedule at
+            <a
+              href="https://drive.google.com/file/d/1Q2Lj_lntdpaIVRhC-1BBgph4pxEJKBjr/view?usp=sharing"
+            >
+              this link</a
+            >.
           </p>
           <p>
-            Registration open at: 
-            <a href="https://creacteve.com.br/en/proximos-eventos/fusion-2025/"> Registration </a>.
+            Registration open at:
+            <a href="https://creacteve.com.br/en/proximos-eventos/fusion-2025/">
+              Registration</a
+            >.
           </p>
-           <p>If you require a VISA letter, please send an email to contact@fusion2025.org</p>
+          <p>
+            If you require a VISA letter, please send an email to
+            contact@fusion2025.org
+          </p>
         </v-alert>
         <p class="page-content pt-8">
           Information Fusion conference is the premier international conference
