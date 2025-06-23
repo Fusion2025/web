@@ -52,6 +52,8 @@ export default defineNuxtConfig({
     },
   },
 
+  site: { url: "fusion2025.org" },
+
   ssr: false,
 
   telemetry: { enabled: false },
