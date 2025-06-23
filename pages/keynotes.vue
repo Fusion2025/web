@@ -5,52 +5,10 @@
         <h1 class="page-title">Keynotes</h1>
       </v-col>
     </v-row>
+
     <v-row id="keynote-1" justify="center">
       <v-col cols="12">
         <h2 class="page-title">July 9th, 2025</h2>
-        <h2 class="page-title">Data Fusion Applied to Medical Applications</h2>
-      </v-col>
-      <v-col cols="12">
-        <h4 class="pt-4">Abstract:</h4>
-        <p>
-          This talk presents research on data fusion applied to medical
-          applications, particularly esophageal and breast cancer detection. We
-          also evaluated combining classical and quantum data to enhance the
-          diagnosis and build foundation models to expand knowledge in language
-          and visual models. Ongoing research on data fusion applied to other
-          areas will also be explored.
-        </p>
-        <h4 class="pt-4">Bio:</h4>
-      </v-col>
-      <v-col cols="12" md="2" class="text-center" align-self="center">
-        <img class="keynote-img" src="/img/keynotes/joao-paulo-papa.jpg" />
-      </v-col>
-      <v-col cols="12" md="10" align-self="center">
-        <p class="page-content">
-          <span class="text-black font-bold">João Paulo Papa</span> is a full
-          professor at the Department of Computer Science, School of Sciences,
-          São Paulo State University. He is a Fellow of the International
-          Association for Pattern Recognition, the Asia-Pacific Artificial
-          Intelligence Association, the Alexander von Humboldt Foundation, and
-          the Brazilian National Council for Scientific and Technological
-          Development. He was a visiting scholar at MIT (2024-2025) and Harvard
-          University (2014-2015) and a Brazilian delegate at the International
-          Association for Pattern Recognition. He is also the Coordinator of the
-          eScience Program at the São Paulo Research Foundation and a member of
-          the Advisory Committee in Computer Science, CNPq. His research
-          interests include machine learning, optimization, computer vision, and
-          language models.
-        </p>
-      </v-col>
-    </v-row>
-    <v-row>
-      <v-col>
-        <div class="divider" />
-      </v-col>
-    </v-row>
-    <v-row id="keynote-2" justify="center">
-      <v-col cols="12">
-        <h2 class="page-title">July 10th, 2025</h2>
         <h2 class="page-title">
           TinyML: Democratizing AI at the Edge for Global Development
         </h2>
@@ -123,6 +81,49 @@
           <NuxtLink to="https://github.com/Mjrovai" target="_blank">
             GitHub profile
           </NuxtLink>
+        </p>
+      </v-col>
+    </v-row>
+    <v-row>
+      <v-col>
+        <div class="divider" />
+      </v-col>
+    </v-row>
+    <v-row id="keynote-2" justify="center">
+      <v-col cols="12">
+        <h2 class="page-title">July 10th, 2025</h2>
+        <h2 class="page-title">Data Fusion Applied to Medical Applications</h2>
+      </v-col>
+      <v-col cols="12">
+        <h4 class="pt-4">Abstract:</h4>
+        <p>
+          This talk presents research on data fusion applied to medical
+          applications, particularly esophageal and breast cancer detection. We
+          also evaluated combining classical and quantum data to enhance the
+          diagnosis and build foundation models to expand knowledge in language
+          and visual models. Ongoing research on data fusion applied to other
+          areas will also be explored.
+        </p>
+        <h4 class="pt-4">Bio:</h4>
+      </v-col>
+      <v-col cols="12" md="2" class="text-center" align-self="center">
+        <img class="keynote-img" src="/img/keynotes/joao-paulo-papa.jpg" />
+      </v-col>
+      <v-col cols="12" md="10" align-self="center">
+        <p class="page-content">
+          <span class="text-black font-bold">João Paulo Papa</span> is a full
+          professor at the Department of Computer Science, School of Sciences,
+          São Paulo State University. He is a Fellow of the International
+          Association for Pattern Recognition, the Asia-Pacific Artificial
+          Intelligence Association, the Alexander von Humboldt Foundation, and
+          the Brazilian National Council for Scientific and Technological
+          Development. He was a visiting scholar at MIT (2024-2025) and Harvard
+          University (2014-2015) and a Brazilian delegate at the International
+          Association for Pattern Recognition. He is also the Coordinator of the
+          eScience Program at the São Paulo Research Foundation and a member of
+          the Advisory Committee in Computer Science, CNPq. His research
+          interests include machine learning, optimization, computer vision, and
+          language models.
         </p>
       </v-col>
     </v-row>

@@ -3,7 +3,14 @@
     <v-row justify="center">
       <v-col cols="auto">
         <h1 class="page-title">Schedule</h1>
-        <h1 class="page-title" style="color: red">You will be able to download the detailed schedule at <a href="https://drive.google.com/file/d/1O2d8wU9dDngrmjveDd65zuIbDTj293sj/view?usp=sharing"> this link</a></h1>
+        <h1 class="page-title" style="color: red">
+          You will be able to download the detailed schedule at
+          <a
+            href="https://drive.google.com/file/d/1O2d8wU9dDngrmjveDd65zuIbDTj293sj/view?usp=sharing"
+          >
+            this link</a
+          >
+        </h1>
       </v-col>
     </v-row>
     <v-row justify="center">
@@ -86,7 +93,7 @@
                   </tr>
                   <tr>
                     <td class="td-1">08:00</td>
-                    <td class="td-1">Welcoming</td>
+                    <td class="td-1">FUSION 2025 Official Opening</td>
                   </tr>
                   <tr>
                     <td class="td-1">08:30</td>
@@ -94,9 +101,17 @@
                   </tr>
                   <tr>
                     <td class="td-n">12:00</td>
-                    <td class="td-n">Keynote 1 - Prof. Marcelo Rovai</td>
+                    <td class="td-n">
+                      Keynote 1 - Prof. Marcelo Rovai
+                      <NuxtLink to="/keynotes/#keynote-1" class="calendar-link">
+                        <v-icon
+                          icon="mdi-information-variant-circle-outline"
+                          size="x-small"
+                        />
+                      </NuxtLink>
+                    </td>
                   </tr>
-                   <tr>
+                  <tr>
                     <td class="td-n">13:00 - 14:30</td>
                     <td class="td-n">Lunch</td>
                   </tr>
@@ -139,7 +154,15 @@
                   </tr>
                   <tr>
                     <td class="td-n">10:00</td>
-                    <td class="td-n">Keynote 2 - Prof. João Paulo Papa</td>
+                    <td class="td-n">
+                      Keynote 2 - Prof. João Paulo Papa
+                      <NuxtLink to="/keynotes/#keynote-2" class="calendar-link">
+                        <v-icon
+                          icon="mdi-information-variant-circle-outline"
+                          size="x-small"
+                        />
+                      </NuxtLink>
+                    </td>
                   </tr>
                   <tr>
                     <td class="td-n">11:00 - 13:00</td>
@@ -188,7 +211,15 @@
                   </tr>
                   <tr>
                     <td class="td-n">10:00</td>
-                    <td class="td-n">Keynote 3</td>
+                    <td class="td-n">
+                      Keynote 3
+                      <NuxtLink to="/keynotes/#keynote-3" class="calendar-link">
+                        <v-icon
+                          icon="mdi-information-variant-circle-outline"
+                          size="x-small"
+                        />
+                      </NuxtLink>
+                    </td>
                   </tr>
                   <tr>
                     <td class="td-n">11:00 - 13:00</td>
