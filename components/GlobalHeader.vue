@@ -26,7 +26,6 @@
             exact
           />
         </v-list-group>
-        <NavbarMobileButton to="/submit" name="SUBMIT" exact />
         <NavbarMobileButton to="/register" name="REGISTER" exact />
         <NavbarMobileButton to="/scholarship" name="SCHOLARSHIP" exact />
         <v-list-group value="PROGRAM">
@@ -117,7 +116,6 @@
             </v-list-item>
           </v-list>
         </v-menu>
-        <NavbarButton to="/submit" name="SUBMIT" sep />
         <NavbarButton to="/register" name="REGISTER" sep />
         <NavbarButton to="/scholarship" name="SCHOLARSHIP" sep />
         <v-menu open-on-hover>
