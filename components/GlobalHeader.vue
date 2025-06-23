@@ -205,6 +205,7 @@ const programs = [
   { name: "BOOT CAMP", to: "/bootcamp" },
   { name: "ATTRACTIONS", to: "/attractions" },
   { name: "TEEN WORKSHOP", to: "/teen-workshop" },
+  { name: "5K RUN", to: "/5k-run" },
 ];
 
 // Closes the navigation drawer in case of display size change
