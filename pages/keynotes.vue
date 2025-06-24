@@ -144,7 +144,7 @@
         <h4 class="pt-4">Bio:</h4>
       </v-col>
       <v-col cols="12" md="2" class="text-center" align-self="center">
-        <img class="keynote-img" src="/img/keynotes/jacoud.jpg" />
+        <img class="keynote-img" src="/img/keynotes/IMG_0278.jpeg" />
       </v-col>
       <v-col cols="12" md="10" align-self="center">
         <p class="page-content">
