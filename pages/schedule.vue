@@ -6,7 +6,7 @@
         <h1 class="page-title" style="color: red">
           You will be able to download the detailed schedule at
           <a
-            href="https://drive.google.com/file/d/1Q2Lj_lntdpaIVRhC-1BBgph4pxEJKBjr/view?usp=sharing"
+            href="https://drive.google.com/file/d/1CvU18Nobk98bignLlGQLCGnKe1ZxXPbS/view?usp=sharing"
           >
             this link</a
           >.
@@ -212,7 +212,7 @@
                   <tr>
                     <td class="td-n">10:00</td>
                     <td class="td-n">
-                      Keynote 3
+                      Keynote 3 - Alessandro Jacoud
                       <NuxtLink to="/keynotes/#keynote-3" class="calendar-link">
                         <v-icon
                           icon="mdi-information-variant-circle-outline"
