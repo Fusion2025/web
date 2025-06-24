@@ -135,8 +135,25 @@
     <v-row id="keynote-3" justify="center">
       <v-col cols="12">
         <h2 class="page-title">July 11th, 2025</h2>
-        <h2 class="page-title">TO BE ANNOUNCED</h2>
+        <h2 class="page-title">Advancements in Autonomous Robotics for Offshore and Aerial Applications</h2>
       </v-col>
+      <v-col cols="12">
+        <h4 class="pt-4">Abstract:</h4>
+        <p>
+          This talk will begin with an overview of our team's previous activities in underwater/maritime robotics, mobile robotics, robots for topside inspection, manipulator robots, and aerial robotics. The main focus will be on an autonomous robotic system that integrates aerial vehicles and unmanned surface vehicles to detect oil leaks in offshore environments, using embedded sensors such as thermal cameras. This system is designed to execute autonomous trajectories and perform takeoff/landing operations on dynamic platforms like unmanned surface vehicles. Additionally, it collects meteorological and oceanographic data and applies AI algorithms for oil detection by combining remote sensing with local data. This integrated data can be used to enhance oil dispersion, atmospheric, and oceanographic models. Our team's control algorithms and technologies for tracking and landing can be adapted to various applications. Finally, we will briefly outline new projects under development and emerging research areas in the field of robotics.        </p>
+        <h4 class="pt-4">Bio:</h4>
+      </v-col>
+      <v-col cols="12" md="2" class="text-center" align-self="center">
+        <img class="keynote-img" src="/img/keynotes/jacoud.jpg" />
+      </v-col>
+      <v-col cols="12" md="10" align-self="center">
+        <p class="page-content">
+          <span class="text-black font-bold">Alessandro Jacoud</span> received the Electronics Engineer degree from the 
+          Federal University of Rio de Janeiro (UFRJ) in 2000, the M.Sc. degree (in 2002) and the Ph.D. (in 2007) degree from COPPE/Federal University of Rio de Janeiro (Brazil), both in electrical engineering. Currently, he is an Associate Professor in the Department of Electronics and Computer Engineering (DEL/Poli/UFRJ) at the Federal University of Rio de Janeiro. In 2011, he joined the Graduate School and Research in Engineering (COPPE) of the Federal University of Rio de Janeiro. Since 2007, he has been with the Brazilian Antarctic Program developing a ROV for underwater inspection and visited the Brazilian station, at Antarctic, in November 2007. In 2017 and 2020, he received the Innovation Technology Award granted by the Brazilian National Agency for Petroleum, Natural Gas and Biofuels (ANP), developing a robot for topside inspection and autonomous drones for oil spill detection in the sea, respectively. His teaching and research interests are in the fields of nonlinear control theory, control of uncertain nonlinear systems, sliding mode control, extremum-seeking control, real-time control systems, industrial processes, automation, robotics, and 
+sources of renewable energy. Prof. Alessandro is a member of the Brazilian Automatic Society and of the IEEE Control Systems Society.
+        </p>
+      </v-col>
+    </v-row>
     </v-row>
   </v-container>
 </template>
