@@ -154,7 +154,6 @@ sources of renewable energy. Prof. Alessandro is a member of the Brazilian Autom
         </p>
       </v-col>
     </v-row>
-    </v-row>
   </v-container>
 </template>
 
