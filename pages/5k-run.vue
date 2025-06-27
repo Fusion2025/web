@@ -22,7 +22,7 @@
         </p>
         <p class="page-content pt-4">
           We will meet in front of Othon Hotel, where Fusion is located. At 7:00
-          AM on 10th of July, we'll walk together to the starting line at Lagoa
+          AM on 10th of July, we will walk together to the starting line at Lagoa
           Rodrigo de Freitas — a 20 minute walk through the charming streets of
           Copacabana.
         </p>
