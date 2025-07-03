@@ -23,10 +23,8 @@
             </p>
             <ul class="pl-4 pl-md-6">
               <li class="pt-2">
-                There will be vans chartered by the conference taking the
-                attendees from the airports (Galeão and Santos Dumont​) to the
-                conference hotel. Detailed information will be sent to
-                conference registrants closer to the event.
+               Blumar turismo is offering a transfer service for the FUSION attendees. 
+                Please refer to the Blumar turismo link bellow or send a message to contact@fusion2025.org.
               </li>
               <li class="pt-2">
                 The hotel is located in the safest zone of the city, crowded
