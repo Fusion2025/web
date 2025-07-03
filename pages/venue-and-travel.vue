@@ -337,14 +337,6 @@
                 </p>
                 <p class="pt-2">Recommended methods:</p>
                 <ul class="pl-4 pl-md-6">
-                  <li class="pt-2">
-                    Fusion 2025 chartered vans: We will provide free
-                    transportation with chartered vans/small busses at
-                    pre-defined times during the days preceding the conference,
-                    as well as on late Friday and Saturday after the conference.
-                    The schedule will be announced here closer to the event as
-                    we learn the arrival time from most of our attendees.
-                  </li>
                   <li class="pt-2">Uber</li>
                   <li class="pt-2">
                     Registered Taxi (hire at a booth inside the Luggage Return
