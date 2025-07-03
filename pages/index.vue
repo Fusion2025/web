@@ -28,7 +28,7 @@
           <p>
             You will be able to download the detailed schedule at
             <a
-              href="https://drive.google.com/file/d/1VuF7Q_tD2DnFsEoTr2UMlYSCJUXohghX/view?usp=sharing"
+              href="https://drive.google.com/file/d/1bAnO7BBf2HfceCrgsliPKk4B2oW14Ftk/view?usp=sharing"
             >
               this link</a
             >.
