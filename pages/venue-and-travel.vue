@@ -7,12 +7,8 @@
           <v-col cols="auto">
             <h1 class="page-title">Venue & Travel</h1>
              <h1 class="page-title" style="color: red">
-              You can find restaurant suggestions at 
-              <a
-                href="https://bit.ly/suggestions-fusion-2025"
-              >
-                this link</a
-              >.
+              You can find restaurant suggestions at <a href="https://bit.ly/suggestions-fusion-2025"> this link</a>.
+              </h1>
           </v-col>
         </v-row>
         <v-row justify="center">
