@@ -42,13 +42,13 @@
                         >
                           <img
                             class="profile-picture"
-                            src="/img/bootcamp/erik-blasch.jpg"
+                            src="/img/organization/local/pablo-rangel.jpg"
                           />
                         </v-col>
                         <v-col cols="12" md="6" lg="8">
                           <b>Introduction to Information Fusion</b>
-                          <p>Erik Blasch</p>
-                          <p>Air Force Office of Scientific Research (USA)</p>
+                          <p>Pablo Rangel</p>
+                          <p>Brazilian Navy - IpqM (Brazil)</p>
                         </v-col>
                       </v-row>
                     </td>
@@ -199,13 +199,13 @@
                         >
                           <img
                             class="profile-picture"
-                            src="/img/bootcamp/erik-blasch.jpg"
+                            src="/img/organization/general/claudio-miceli.jpg"
                           />
                         </v-col>
                         <v-col cols="12" md="6" lg="8">
                           <b>High-Level Fusion</b>
-                          <p>Erik Blasch</p>
-                          <p>Air Force Office of Scientific Research (USA)</p>
+                          <p>Claudio Miceli</p>
+                          <p>Universidade Federal do Rio de Janeiro (Brazil)</p>
                         </v-col>
                       </v-row>
                     </td>
