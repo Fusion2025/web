@@ -199,7 +199,7 @@
                         >
                           <img
                             class="profile-picture"
-                            src="/img/organization/general/claudio-miceli.jpg"
+                            src="/img/organization/general/claudio-miceli.jpeg"
                           />
                         </v-col>
                         <v-col cols="12" md="6" lg="8">
