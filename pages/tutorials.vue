@@ -95,7 +95,7 @@ const halfDayTutorials = [
     abstract: [
       "This tutorial will provide a comprehensive exploration of hybrid fusion techniques designed to integrate low-level sensor data (e.g., point clouds) and mid-level DNN-derived features (e.g., box features) from diverse sensor modalities such as LiDAR, Radar, and Cameras. The focus will be on practical techniques deployed in real-world systems, particularly those implemented in Mercedes-Benz vehicles to achieve advanced levels of autonomous driving. Unlike conventional approaches that focus primarily on single-level fusion or extended object modeling, this session will delve into: fusion techniques for low-level and mid-level data, single-sensor trackers and their role in fusion, probabilistic multiple hypothesis (PMHT) for low-level fusion, novel box-to-box innovation models and production-ready applications.",
     ],
-    time: "Afternoon (02:30 PM to 05:30 PM)",
+    time: "Morning (10 AM to 01 PM)",
   },
   {
     title:
@@ -155,7 +155,7 @@ const halfDayTutorials = [
     abstract: [
       'Quantum algorithms for data fusion may become game changers as soon as quantum processing kernels embedded in hybrid processing architectures with classical processors will exist. While emerging quantum technologies directly apply quantum physics, quantum algorithms do not exploit quantum physical phenomena as such, but rather use the sophisticated framework of quantum physics to deal with "uncertainty". Although the link between mathematical statistics and quantum physics has long been known, the potential of physics-inspired algorithms for data fusion has just begun to be realized. While the implementation of quantum algorithms is to be considered on classical as well as on quantum computers, the latter are anticipated as well- adapted "analog computers" for unprecedentedly fast solving data fusion and resources management problems. While the development of quantum computers cannot be taken for granted, their potential is nonetheless real and has to be considered by the international information fusion community.',
     ],
-    time: "Morning (10 AM to 01 PM)",
+    time: "Afternoon (02:30 PM to 05:30 PM)",
   },
   {
     title: "Deep Learning for Multimodal Data Fusion: Theory and Practice",
