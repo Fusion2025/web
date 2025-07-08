@@ -178,9 +178,9 @@
       </v-col>
       <v-col cols="12">
         <p class="page-content">
-          The hackathon will run on two days, during the FUSION 2025 conference.
-          It will start on Tuesday, and end on Wednesday (room will be announced
-          soon).
+          The hackathon will run on three and a half days, during the FUSION
+          2025 conference. It will start on Tuesday, and end on Friday morning.
+          The hackathon is located at Room Ipanema, in the second floor.
         </p>
       </v-col>
       <v-col cols="12">
@@ -209,6 +209,33 @@
           Participants are expected to bring their own computers. Food, drinks,
           electricity and network will be provided.
         </p>
+      </v-col>
+      <v-col cols="12">
+        <h3 class="pt-6">Contact and important links</h3>
+      </v-col>
+      <v-col cols="12">
+        <ul class="page-content pl-4 pl-md-6">
+          <li>
+            <NuxtLink
+              to="https://gitlab.pasteur.fr/jdreo/hlif_ontoweaver"
+              target="_blank"
+            >
+              Base project
+            </NuxtLink>
+          </li>
+          <li class="pt-4">
+            Johann Dreo:
+            <NuxtLink to="mailto:johann.dreo@pasteur.fr" target="_blank"
+              >johann.dreo@pasteur.fr</NuxtLink
+            >
+          </li>
+          <li class="pt-4">
+            Claire Laudy:
+            <NuxtLink to="mailto:claire.laudy@thalesgroup.org" target="_blank"
+              >claire.laudy@thalesgroup.org</NuxtLink
+            >
+          </li>
+        </ul>
       </v-col>
       <v-col cols="12">
         <h3 class="pt-6">Hackathon Prize</h3>
