@@ -31,6 +31,29 @@
           />
         </NuxtLink>
       </v-col>
+      <v-col class="text-center" cols="12" md="auto">
+        <NuxtLink to="https://www.leonardo.com/" target="_blank">
+          <img
+            class="supporters"
+            draggable="false"
+            src="/img/supporters/leonardo.svg"
+            alt="Leonardo"
+          />
+        </NuxtLink>
+      </v-col>
+      <v-col class="text-center" cols="12" md="auto">
+        <NuxtLink
+          to="https://sdcsjtu.readthedocs.io/en/latest/"
+          target="_blank"
+        >
+          <img
+            class="supporters"
+            draggable="false"
+            src="/img/supporters/SJTU.svg"
+            alt="SJTU"
+          />
+        </NuxtLink>
+      </v-col>
     </v-row>
   </v-footer>
 </template>

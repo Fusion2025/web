@@ -191,8 +191,21 @@
                   <img
                     class="sponsor h-100"
                     draggable="false"
-                    src="/img/sponsors/leonardo.svg"
+                    src="/img/supporters/leonardo.svg"
                     alt="Leonardo"
+                  />
+                </NuxtLink>
+              </v-col>
+              <v-col class="text-center" cols="12" sm="4">
+                <NuxtLink
+                  to="https://sdcsjtu.readthedocs.io/en/latest/"
+                  target="_blank"
+                >
+                  <img
+                    class="sponsor h-100"
+                    draggable="false"
+                    src="/img/supporters/SJTU.svg"
+                    alt="SJTU"
                   />
                 </NuxtLink>
               </v-col>
